@@ -1,0 +1,29 @@
+#!/bin/bash
+
+case $1 in
+
+Jan) echo 1
+	;;
+Feb) echo 2
+	;;
+Mar) echo 3
+	;;
+Apr) echo 4
+	;;
+May) echo 5
+	;;
+Jun) echo 6
+	;;
+Jul) echo 7
+	;;
+Aug) echo 8
+	;;
+Sep) echo 9
+	;;
+Oct) echo 10
+	;;
+Nov) echo 11
+	;;
+Dec) echo 12
+	;;
+esac

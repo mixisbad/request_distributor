@@ -1,0 +1,5116 @@
+7867
+[21/Sep/2014:06:27:26 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/stagenfun_doc_umentationcp.html
+[21/Sep/2014:07:16:30 -0400]
+wait time is : 2944
+WGET http://cs.hbg.psu.edu/
+[21/Sep/2014:07:28:21 -0400]
+wait time is : 711
+WGET http://cs.hbg.psu.edu/cs/index.html
+[21/Sep/2014:07:35:31 -0400]
+wait time is : 430
+WGET http://cs.hbg.psu.edu/mspapers/sources/duanqing-wu.pdf
+[21/Sep/2014:08:26:23 -0400]
+wait time is : 3052
+WGET http://cs.hbg.psu.edu/mspapers/sources/hung-yu-lin.pdf
+[21/Sep/2014:08:51:55 -0400]
+wait time is : 1532
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq.html
+[21/Sep/2014:09:00:20 -0400]
+wait time is : 505
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/graph_color/3-FullIns_5.col
+[21/Sep/2014:09:41:48 -0400]
+wait time is : 2488
+WGET http://cs.hbg.psu.edu/cmpsc472/
+[21/Sep/2014:09:41:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:09:41:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:09:41:59 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/cmpsc472.baci/monitors.html
+[21/Sep/2014:09:46:04 -0400]
+wait time is : 245
+WGET http://cs.hbg.psu.edu/cmpsc472.baci/semaphores.html
+[21/Sep/2014:09:55:27 -0400]
+wait time is : 563
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[21/Sep/2014:10:23:54 -0400]
+wait time is : 1707
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[21/Sep/2014:10:23:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[21/Sep/2014:10:23:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:10:36:13 -0400]
+wait time is : 739
+WGET http://cs.hbg.psu.edu/
+[21/Sep/2014:10:36:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/index-style.css
+[21/Sep/2014:10:36:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[21/Sep/2014:10:36:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[21/Sep/2014:10:36:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[21/Sep/2014:10:36:25 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/ms/mscourses.html
+[21/Sep/2014:10:41:28 -0400]
+wait time is : 303
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[21/Sep/2014:10:43:26 -0400]
+wait time is : 118
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[21/Sep/2014:11:23:16 -0400]
+wait time is : 2390
+WGET http://cs.hbg.psu.edu/~jwd5623/
+[21/Sep/2014:11:23:16 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~jwd5623/style/homepage.css
+[21/Sep/2014:11:23:16 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~jwd5623/script/homepage.js
+[21/Sep/2014:11:23:16 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:11:24:11 -0400]
+wait time is : 55
+WGET http://cs.hbg.psu.edu/ms/index.html
+[21/Sep/2014:11:24:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[21/Sep/2014:11:24:12 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:11:24:17 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[21/Sep/2014:11:31:08 -0400]
+wait time is : 411
+WGET http://cs.hbg.psu.edu/cmpsc487/HW2_UseCase.pdf
+[21/Sep/2014:11:37:54 -0400]
+wait time is : 406
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[21/Sep/2014:12:01:04 -0400]
+wait time is : 1390
+WGET http://cs.hbg.psu.edu/cmpsc487
+[21/Sep/2014:12:01:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[21/Sep/2014:12:01:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:12:01:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:12:01:15 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/cmpsc472
+[21/Sep/2014:12:01:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cmpsc472/
+[21/Sep/2014:12:01:37 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu/cmpsc472/ex1-topics.html
+[21/Sep/2014:12:23:43 -0400]
+wait time is : 1326
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[21/Sep/2014:12:23:44 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[21/Sep/2014:12:23:46 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:13:22:36 -0400]
+wait time is : 3530
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/graph_color/3-FullIns_5.col
+[21/Sep/2014:13:25:33 -0400]
+wait time is : 177
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[21/Sep/2014:13:32:14 -0400]
+wait time is : 401
+WGET http://cs.hbg.psu.edu/
+[21/Sep/2014:14:05:06 -0400]
+wait time is : 1972
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[21/Sep/2014:14:07:01 -0400]
+wait time is : 115
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur
+[21/Sep/2014:14:22:07 -0400]
+wait time is : 906
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/prog4/node1.html
+[21/Sep/2014:14:32:55 -0400]
+wait time is : 648
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[21/Sep/2014:14:52:44 -0400]
+wait time is : 1189
+WGET http://cs.hbg.psu.edu/cmpsc122/
+[21/Sep/2014:14:48:37 -0400]
+wait time is : -247
+WGET http://cs.hbg.psu.edu/cmpsc444/VM_CMPSC444_v1.zip
+[21/Sep/2014:15:17:05 -0400]
+wait time is : 1708
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-psu.html
+[21/Sep/2014:15:17:06 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/Ada/lovelace/demo_gs.adb
+[21/Sep/2014:15:28:57 -0400]
+wait time is : 711
+WGET http://cs.hbg.psu.edu/txn131/INSTANCES/graphcoloring.html
+[21/Sep/2014:15:32:00 -0400]
+wait time is : 183
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[21/Sep/2014:15:32:20 -0400]
+wait time is : 20
+WGET http://cs.hbg.psu.edu/cmpsc487/HW2_UseCase.pdf
+[21/Sep/2014:15:32:37 -0400]
+wait time is : 17
+WGET http://cs.hbg.psu.edu/cmpsc487/CMPSC487W_MinutesRequirmentsOutline.pdf
+[21/Sep/2014:15:32:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/CMPSC487W_MinutesRequirmentsOutline.pdf
+[21/Sep/2014:15:32:36 -0400]
+wait time is : -1
+WGET http://cs.hbg.psu.edu/cmpsc487/CMPSC487W_MinutesRequirmentsOutline.pdf
+[21/Sep/2014:15:55:54 -0400]
+wait time is : 1398
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:55 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:15:55:53 -0400]
+wait time is : -2
+WGET http://cs.hbg.psu.edu/cmpsc487/Domain%20Modeling.pdf
+[21/Sep/2014:16:18:27 -0400]
+wait time is : 1354
+WGET http://cs.hbg.psu.edu/ms/mstracks.html
+[21/Sep/2014:16:35:37 -0400]
+wait time is : 1030
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[21/Sep/2014:16:35:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[21/Sep/2014:16:35:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:17:23:12 -0400]
+wait time is : 2855
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[21/Sep/2014:17:38:46 -0400]
+wait time is : 934
+WGET http://cs.hbg.psu.edu/iug/iugapplication.pdf
+[21/Sep/2014:17:38:46 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:17:41:17 -0400]
+wait time is : 151
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[21/Sep/2014:17:41:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[21/Sep/2014:17:41:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-prereq.png
+[21/Sep/2014:17:42:19 -0400]
+wait time is : 62
+WGET http://cs.hbg.psu.edu/iug/index.html
+[21/Sep/2014:17:42:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/iug/iug-style.css
+[21/Sep/2014:17:42:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:17:42:27 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/iug/iughandbook-after-2013s.pdf
+[21/Sep/2014:17:47:01 -0400]
+wait time is : 274
+WGET http://cs.hbg.psu.edu/cmpsc487/CMPSC487W_MinutesRequirmentsOutline.pdf
+[21/Sep/2014:17:47:33 -0400]
+wait time is : 32
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[21/Sep/2014:17:47:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[21/Sep/2014:17:47:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[21/Sep/2014:17:47:34 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/csjob/jobs.html
+[21/Sep/2014:17:47:39 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[21/Sep/2014:18:19:21 -0400]
+wait time is : 1902
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:21 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:22 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:22 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:22 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:23 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:23 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:24 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:24 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:25 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:18:19:25 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[21/Sep/2014:19:05:15 -0400]
+wait time is : 2750
+WGET http://cs.hbg.psu.edu/comp512/sid-ron-prop.pdf
+[21/Sep/2014:19:14:38 -0400]
+wait time is : 563
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-others.html
+[21/Sep/2014:19:17:28 -0400]
+wait time is : 170
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/brock200_4.clq
+[21/Sep/2014:20:07:01 -0400]
+wait time is : 2973
+WGET http://cs.hbg.psu.edu/ms/index.html
+[21/Sep/2014:20:10:13 -0400]
+wait time is : 192
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:20:10:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:20:10:55 -0400]
+wait time is : 42
+WGET http://cs.hbg.psu.edu/cmpsc487/HW2_UseCase.pdf
+[21/Sep/2014:20:13:55 -0400]
+wait time is : 180
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[21/Sep/2014:20:13:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[21/Sep/2014:20:50:26 -0400]
+wait time is : 2191
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/unix.txt
+[21/Sep/2014:21:05:11 -0400]
+wait time is : 885
+WGET http://cs.hbg.psu.edu/robots.txt
+[21/Sep/2014:21:30:02 -0400]
+wait time is : 1491
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/examples/enternum.c
+[21/Sep/2014:22:04:59 -0400]
+wait time is : 2097
+WGET http://cs.hbg.psu.edu/
+[21/Sep/2014:22:51:36 -0400]
+wait time is : 2797
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:22:51:44 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:22:51:48 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:22:51:55 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:22:55:12 -0400]
+wait time is : 197
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:22:56:39 -0400]
+wait time is : 87
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[21/Sep/2014:23:39:38 -0400]
+wait time is : 2579
+WGET http://cs.hbg.psu.edu/wp/wp-admin/
+[22/Sep/2014:00:22:10 -0400]
+wait time is : 2552
+WGET http://cs.hbg.psu.edu/math/math-faculty.html
+[22/Sep/2014:00:22:25 -0400]
+wait time is : 15
+WGET http://cs.hbg.psu.edu/math/math-style.css
+[22/Sep/2014:00:45:37 -0400]
+wait time is : 1392
+WGET http://cs.hbg.psu.edu/~bui/
+[22/Sep/2014:00:45:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~bui/style.css
+[22/Sep/2014:00:45:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:00:45:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/apple-touch-icon-precomposed.png
+[22/Sep/2014:00:45:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/apple-touch-icon.png
+[22/Sep/2014:00:50:05 -0400]
+wait time is : 268
+WGET http://cs.hbg.psu.edu/csjob/FrontierRecNET.html
+[22/Sep/2014:00:50:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-220-11f.htm
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/csjob/Spectrum.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/CAP160S-10f.htm
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/csjob/XeroxEmbedded.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/csjob/jobs.html.jrb
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-hacc.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-general-prereq.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/%7Erawalker/Homework-110-13s.htm
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-140-10s.htm
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq-2011-2013.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-typical-general-2009-2013.html
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/misc/
+[22/Sep/2014:00:50:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/misc/gr-todo.html
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~wagner/ASTG/ASTG%20Overview.htm
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms400courses.html
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-425-11f.htm
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~ius13/nonlinear_anal_2006.pdf
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~ius13/nth_submitted.pdf
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Problem_Sets-435-10f.htm
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Problem_Sets-220-12s.htm
+[22/Sep/2014:00:50:07 -0400];"GET /acm/?C=M
+wait time is : 0
+WGET http://cs.hbg.psu.eduHTTP/1.1"
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/
+[22/Sep/2014:00:50:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-110-13s.htm
+[22/Sep/2014:00:50:07 -0400];"GET /acm/?C=S
+wait time is : 0
+WGET http://cs.hbg.psu.eduHTTP/1.1"
+[22/Sep/2014:00:50:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-430-09f.htm
+[22/Sep/2014:00:50:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~msr1/index.html
+[22/Sep/2014:00:50:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/%7Erawalker/
+[22/Sep/2014:01:16:38 -0400]
+wait time is : 1590
+WGET http://cs.hbg.psu.edu/cs/
+[22/Sep/2014:01:44:09 -0400]
+wait time is : 1651
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:01:44:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.gif
+[22/Sep/2014:02:18:06 -0400]
+wait time is : 2036
+WGET http://cs.hbg.psu.edu/~ding/publications/SAC02_db15.pdf
+[22/Sep/2014:02:18:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:02:22:58 -0400]
+wait time is : 291
+WGET http://cs.hbg.psu.edu/robots.txt
+[22/Sep/2014:02:23:04 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/math/math-minor.html
+[22/Sep/2014:02:59:52 -0400]
+wait time is : 2208
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:03:15:01 -0400]
+wait time is : 909
+WGET http://cs.hbg.psu.edu/
+[22/Sep/2014:03:40:12 -0400]
+wait time is : 1511
+WGET http://cs.hbg.psu.edu/Ada/lovelace/userg.htm
+[22/Sep/2014:04:34:24 -0400]
+wait time is : 3252
+WGET http://cs.hbg.psu.edu/comp512/singhaldeadsurvey-1.pdf
+[22/Sep/2014:04:38:32 -0400]
+wait time is : 248
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/examples/ave3.c
+[22/Sep/2014:05:46:19 -0400]
+wait time is : 4067
+WGET http://cs.hbg.psu.edu/
+[22/Sep/2014:05:46:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/index-style.css
+[22/Sep/2014:05:46:20 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[22/Sep/2014:05:46:20 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[22/Sep/2014:05:46:21 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[22/Sep/2014:05:46:21 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:05:46:26 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/ms/index.html
+[22/Sep/2014:05:46:26 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[22/Sep/2014:05:46:37 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/ms/msdegree.html
+[22/Sep/2014:05:46:55 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/ms/mscourses.html
+[22/Sep/2014:05:53:23 -0400]
+wait time is : 388
+WGET http://cs.hbg.psu.edu/~null/personal/winter.html
+[22/Sep/2014:06:26:54 -0400]
+wait time is : 2011
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[22/Sep/2014:07:34:56 -0400]
+wait time is : 4082
+WGET http://cs.hbg.psu.edu/?CFID=5089906&CFTOKEN=48175272&jsessionid=84307e53cb77505a08829657f2e4a5c43536
+[22/Sep/2014:07:34:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/index-style.css
+[22/Sep/2014:07:34:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[22/Sep/2014:07:34:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[22/Sep/2014:07:34:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[22/Sep/2014:07:34:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:07:52:56 -0400]
+wait time is : 1079
+WGET http://cs.hbg.psu.edu/cs/index.html
+[22/Sep/2014:08:07:05 -0400]
+wait time is : 849
+WGET http://cs.hbg.psu.edu/cs/index.html
+[22/Sep/2014:08:31:04 -0400]
+wait time is : 1439
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[22/Sep/2014:08:35:15 -0400]
+wait time is : 251
+WGET http://cs.hbg.psu.edu/robots.txt
+[22/Sep/2014:08:35:15 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq-2011-2013.png
+[22/Sep/2014:08:43:35 -0400]
+wait time is : 500
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/examples/hello.c
+[22/Sep/2014:09:20:59 -0400]
+wait time is : 2244
+WGET http://cs.hbg.psu.edu/cs/index.html
+[22/Sep/2014:09:26:48 -0400]
+wait time is : 349
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:09:26:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:09:32:50 -0400]
+wait time is : 362
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-10.html
+[22/Sep/2014:10:35:41 -0400]
+wait time is : 3771
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/onem.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/er.html
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop1.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img3.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img2.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop2.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img4.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img1.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img5.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img6.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img7.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mone.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/oneone.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/cart1.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mm.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ernote.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[22/Sep/2014:10:35:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:11:15:38 -0400]
+wait time is : 2387
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[22/Sep/2014:11:15:42 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:11:15:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:11:57:02 -0400]
+wait time is : 2480
+WGET http://cs.hbg.psu.edu/index-style.css
+[22/Sep/2014:11:57:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 595
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:06:59 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:12:24:21 -0400]
+wait time is : 1042
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[22/Sep/2014:12:42:07 -0400]
+wait time is : 1066
+WGET http://cs.hbg.psu.edu/
+[22/Sep/2014:12:42:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:12:54:55 -0400]
+wait time is : 768
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[22/Sep/2014:13:09:03 -0400]
+wait time is : 848
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[22/Sep/2014:13:23:25 -0400]
+wait time is : 862
+WGET http://cs.hbg.psu.edu/?CFID=5102116&CFTOKEN=89078717&jsessionid=8430890a9c538401ff9d215c7715595b7d12
+[22/Sep/2014:13:23:41 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[22/Sep/2014:13:24:54 -0400]
+wait time is : 73
+WGET http://cs.hbg.psu.edu/
+[22/Sep/2014:13:39:39 -0400]
+wait time is : 885
+WGET http://cs.hbg.psu.edu/~fjs2/swetz.jpg
+[22/Sep/2014:13:58:09 -0400]
+wait time is : 1110
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[22/Sep/2014:13:59:47 -0400]
+wait time is : 98
+WGET http://cs.hbg.psu.edu/~ugu/
+[22/Sep/2014:14:50:27 -0400]
+wait time is : 3040
+WGET http://cs.hbg.psu.edu/cse103/
+[22/Sep/2014:14:50:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:15:24:02 -0400]
+wait time is : 2015
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[22/Sep/2014:15:38:31 -0400]
+wait time is : 869
+WGET http://cs.hbg.psu.edu/mspapers/sources/jason-long.pdf
+[22/Sep/2014:15:52:08 -0400]
+wait time is : 817
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[22/Sep/2014:16:04:27 -0400]
+wait time is : 739
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[22/Sep/2014:16:05:22 -0400]
+wait time is : 55
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[22/Sep/2014:16:09:57 -0400]
+wait time is : 275
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/final/node1.html
+[22/Sep/2014:16:44:55 -0400]
+wait time is : 2098
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[22/Sep/2014:16:54:29 -0400]
+wait time is : 574
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:16:54:30 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:16:54:30 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:16:54:51 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[22/Sep/2014:16:54:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu"-
+[22/Sep/2014:16:54:58 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:16:55:19 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[22/Sep/2014:16:55:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu"-
+[22/Sep/2014:17:34:08 -0400]
+wait time is : 2329
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:17:34:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:17:34:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:18:14:50 -0400]
+wait time is : 2441
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-psu.html
+[22/Sep/2014:18:29:38 -0400]
+wait time is : 888
+WGET http://cs.hbg.psu.edu/cs/csminor.html
+[22/Sep/2014:18:29:38 -0400];"GET /acm/?C=M
+wait time is : 0
+WGET http://cs.hbg.psu.eduHTTP/1.1"
+[22/Sep/2014:18:29:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/mscourses.html
+[22/Sep/2014:18:29:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-minor.html
+[22/Sep/2014:18:29:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/math/math-faculty.html
+[22/Sep/2014:18:29:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[22/Sep/2014:18:30:39 -0400]
+wait time is : 60
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:18:30:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:18:30:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:19:19:37 -0400]
+wait time is : 2938
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[22/Sep/2014:19:43:40 -0400]
+wait time is : 1443
+WGET http://cs.hbg.psu.edu/ms/mstracks.html
+[22/Sep/2014:19:44:30 -0400]
+wait time is : 50
+WGET http://cs.hbg.psu.edu/ms/mstracks.html
+[22/Sep/2014:19:53:06 -0400]
+wait time is : 516
+WGET http://cs.hbg.psu.edu/
+[22/Sep/2014:20:39:04 -0400]
+wait time is : 2758
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/p_hat1500-3.clq
+[22/Sep/2014:20:47:21 -0400]
+wait time is : 497
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:20:47:21 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:20:47:21 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:20:50:11 -0400]
+wait time is : 170
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[22/Sep/2014:20:50:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[22/Sep/2014:21:15:19 -0400]
+wait time is : 1508
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[22/Sep/2014:21:15:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[22/Sep/2014:21:23:27 -0400]
+wait time is : 488
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[22/Sep/2014:21:23:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/csjob/jobs.html
+[22/Sep/2014:21:41:22 -0400]
+wait time is : 1075
+WGET http://cs.hbg.psu.edu/comp594/lecture/technical_writing.ppt
+[22/Sep/2014:21:41:43 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[22/Sep/2014:21:49:29 -0400]
+wait time is : 466
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/graph_color/inithx.i.2.col
+[22/Sep/2014:22:02:17 -0400]
+wait time is : 768
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[22/Sep/2014:22:08:20 -0400]
+wait time is : 363
+WGET http://cs.hbg.psu.edu/csjob/jobs.html
+[22/Sep/2014:22:21:49 -0400]
+wait time is : 809
+WGET http://cs.hbg.psu.edu/cs/csminor.html
+[22/Sep/2014:22:47:44 -0400]
+wait time is : 1555
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-others.html
+[22/Sep/2014:23:18:14 -0400]
+wait time is : 1830
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[22/Sep/2014:23:18:14 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[22/Sep/2014:23:18:15 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[22/Sep/2014:23:21:02 -0400]
+wait time is : 167
+WGET http://cs.hbg.psu.edu/ms/index.html
+[22/Sep/2014:23:57:34 -0400]
+wait time is : 2192
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[23/Sep/2014:00:09:26 -0400]
+wait time is : 712
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-others.html
+[23/Sep/2014:00:31:26 -0400]
+wait time is : 1320
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:00:31:26 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:00:31:26 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:01:38:58 -0400]
+wait time is : 4052
+WGET http://cs.hbg.psu.edu/ms/index.html
+[23/Sep/2014:01:44:16 -0400]
+wait time is : 318
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/fixed_set_color/qwhdec.order60.holes1080al.1.col
+[23/Sep/2014:02:22:47 -0400]
+wait time is : 2311
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s5s3r2.htm
+[23/Sep/2014:02:22:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s5s2r1.htm
+[23/Sep/2014:02:22:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s5s1r2.htm
+[23/Sep/2014:02:22:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s4s1r3.htm
+[23/Sep/2014:02:22:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s1sfr1.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s1s2r1.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s18s6r1.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s18s5r2.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s18s4r1.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s18s3r3.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s17s2r3.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s16sfr2.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s16s6r3.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s16s3r1.htm
+[23/Sep/2014:02:22:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s5sfr1.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s15s1r3.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s14s2r1.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s12s6r3.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s12s5.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s12s3.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/how2comp.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign3.html
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s6s1.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s16s1r1.htm
+[23/Sep/2014:02:22:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s5s3r4.htm
+[23/Sep/2014:02:53:03 -0400]
+wait time is : 1814
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[23/Sep/2014:03:21:18 -0400]
+wait time is : 1695
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[23/Sep/2014:03:45:46 -0400]
+wait time is : 1468
+WGET http://cs.hbg.psu.edu/~rawalker/thesis.ps
+[23/Sep/2014:03:57:00 -0400]
+wait time is : 674
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/graph_color/2-Insertions_5.col
+[23/Sep/2014:04:37:02 -0400]
+wait time is : 2402
+WGET http://cs.hbg.psu.edu/
+[23/Sep/2014:04:37:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:04:41:59 -0400]
+wait time is : 297
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/prog6/node1.html
+[23/Sep/2014:04:45:47 -0400]
+wait time is : 228
+WGET http://cs.hbg.psu.edu/cs/cs-prereq-before-2013.png
+[23/Sep/2014:04:46:30 -0400]
+wait time is : 43
+WGET http://cs.hbg.psu.edu/~jhg17/
+[23/Sep/2014:04:49:59 -0400]
+wait time is : 209
+WGET http://cs.hbg.psu.edu/~rawalker/
+[23/Sep/2014:05:03:58 -0400]
+wait time is : 839
+WGET http://cs.hbg.psu.edu/robotics/steering.html
+[23/Sep/2014:05:41:48 -0400]
+wait time is : 2270
+WGET http://cs.hbg.psu.edu/~msr1/misc.html
+[23/Sep/2014:06:01:36 -0400]
+wait time is : 1188
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:06:01:40 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-hacc.html
+[23/Sep/2014:07:36:48 -0400]
+wait time is : 5708
+WGET http://cs.hbg.psu.edu/ms/msentrance.html
+[23/Sep/2014:07:36:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[23/Sep/2014:07:36:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:07:38:53 -0400]
+wait time is : 124
+WGET http://cs.hbg.psu.edu/~ecb5/m110syl.html
+[23/Sep/2014:08:46:30 -0400]
+wait time is : 4057
+WGET http://cs.hbg.psu.edu/lblb/lbl/lb.php
+[23/Sep/2014:08:46:30 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/phpMyAdmin/scripts/setup.php
+[23/Sep/2014:08:46:31 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/pma/scripts/setup.php
+[23/Sep/2014:08:46:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/myadmin/scripts/setup.php
+[23/Sep/2014:09:05:03 -0400]
+wait time is : 1112
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[23/Sep/2014:09:15:29 -0400]
+wait time is : 626
+WGET http://cs.hbg.psu.edu/cs/index.html
+[23/Sep/2014:09:35:25 -0400]
+wait time is : 1196
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[23/Sep/2014:09:37:25 -0400]
+wait time is : 120
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss268.html
+[23/Sep/2014:09:41:18 -0400]
+wait time is : 233
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:09:41:18 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:09:41:18 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:09:55:45 -0400]
+wait time is : 867
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/exam1/node1.html
+[23/Sep/2014:10:12:37 -0400]
+wait time is : 1012
+WGET http://cs.hbg.psu.edu/~nae119/music/recordings.html
+[23/Sep/2014:10:16:33 -0400]
+wait time is : 236
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:10:45:49 -0400]
+wait time is : 1756
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:45:51 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~rawalker/SW-mod.pdf
+[23/Sep/2014:10:51:01 -0400]
+wait time is : 310
+WGET http://cs.hbg.psu.edu/robotics/results2012.html
+[23/Sep/2014:11:05:04 -0400]
+wait time is : 843
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[23/Sep/2014:11:23:53 -0400]
+wait time is : 1129
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[23/Sep/2014:11:42:11 -0400]
+wait time is : 1098
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:11:42:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:11:42:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:11:42:32 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[23/Sep/2014:11:47:07 -0400]
+wait time is : 275
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[23/Sep/2014:12:42:46 -0400]
+wait time is : 3339
+WGET http://cs.hbg.psu.edu/mspapers/sources/bo-huang.pdf
+[23/Sep/2014:13:02:50 -0400]
+wait time is : 1204
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss248.html
+[23/Sep/2014:13:32:31 -0400]
+wait time is : 1781
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:13:32:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:13:32:32 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:14:07:09 -0400]
+wait time is : 2077
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:14:07:12 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:14:07:12 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:14:45:06 -0400]
+wait time is : 2274
+WGET http://cs.hbg.psu.edu/~null/ecoa4e1.jpg
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 2100
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2.html
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img1.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img2.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img3.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img6.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img4.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img5.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img8.gif
+[23/Sep/2014:15:20:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img7.gif
+[23/Sep/2014:15:20:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/sql2/img9.gif
+[23/Sep/2014:15:20:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:15:20:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:15:20:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:16:04:10 -0400]
+wait time is : 2642
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[23/Sep/2014:16:04:27 -0400]
+wait time is : 17
+WGET http://cs.hbg.psu.edu/robotics/
+[23/Sep/2014:16:04:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/default.css
+[23/Sep/2014:16:04:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/pic2.jpg
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/robotics/images/bg1.jpg
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/bg2.jpg
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/topbg.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/hdrpic.png
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/menubg.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/menuactive.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/boxbg.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/border1.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/db1.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/border2.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/db2.gif
+[23/Sep/2014:16:04:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:16:20:22 -0400]
+wait time is : 954
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_array-_l-size-limit.html
+[23/Sep/2014:16:35:37 -0400]
+wait time is : 915
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[23/Sep/2014:16:48:37 -0400]
+wait time is : 780
+WGET http://cs.hbg.psu.edu/~null/personal/alaska.html
+[23/Sep/2014:16:57:29 -0400]
+wait time is : 532
+WGET http://cs.hbg.psu.edu/txn131/clique.html
+[23/Sep/2014:16:57:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:16:57:33 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/brock200_1.clq.b
+[23/Sep/2014:16:57:48 -0400]
+wait time is : 15
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/
+[23/Sep/2014:16:57:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/icons/blank.gif
+[23/Sep/2014:16:57:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/icons/unknown.gif
+[23/Sep/2014:16:57:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/icons/back.gif
+[23/Sep/2014:16:57:52 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/keller6.clq.b
+[23/Sep/2014:16:59:17 -0400]
+wait time is : 85
+WGET http://cs.hbg.psu.edu/comp505/
+[23/Sep/2014:16:59:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp505/course-style.css
+[23/Sep/2014:16:59:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:16:59:19 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp505/505sched.html
+[23/Sep/2014:17:16:35 -0400]
+wait time is : 1036
+WGET http://cs.hbg.psu.edu/comp512.papers/Maekawa-85.pdf
+[23/Sep/2014:17:44:19 -0400]
+wait time is : 1664
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-psu.html
+[23/Sep/2014:17:52:59 -0400]
+wait time is : 520
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4.html
+[23/Sep/2014:17:53:08 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img1.gif
+[23/Sep/2014:17:53:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img2.gif
+[23/Sep/2014:17:53:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img3.gif
+[23/Sep/2014:17:53:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img4.gif
+[23/Sep/2014:17:53:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img5.gif
+[23/Sep/2014:17:53:21 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img6.gif
+[23/Sep/2014:17:53:28 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img11.gif
+[23/Sep/2014:17:53:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img8.gif
+[23/Sep/2014:17:53:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img7.gif
+[23/Sep/2014:17:53:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img9.gif
+[23/Sep/2014:17:53:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img12.gif
+[23/Sep/2014:17:53:38 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img17.gif
+[23/Sep/2014:17:53:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img15.gif
+[23/Sep/2014:17:53:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img16.gif
+[23/Sep/2014:17:53:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img14.gif
+[23/Sep/2014:17:53:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img13.gif
+[23/Sep/2014:17:53:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img10.gif
+[23/Sep/2014:17:53:39 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img18.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img19.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img20.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img21.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img22.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img23.gif
+[23/Sep/2014:17:53:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img24.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img25.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img51.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img52.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img53.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img54.gif
+[23/Sep/2014:17:53:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img55.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img56.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img26.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img27.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img28.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img29.gif
+[23/Sep/2014:17:53:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img30.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img31.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img32.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img33.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img34.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img35.gif
+[23/Sep/2014:17:53:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img36.gif
+[23/Sep/2014:17:53:48 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img37.gif
+[23/Sep/2014:17:53:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img38.gif
+[23/Sep/2014:17:53:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img39.gif
+[23/Sep/2014:17:53:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img40.gif
+[23/Sep/2014:17:53:48 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4/img41.gif
+[23/Sep/2014:17:53:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:18:02:47 -0400]
+wait time is : 538
+WGET http://cs.hbg.psu.edu/LOCAL/lovelace/s16s4.htm
+[23/Sep/2014:18:19:19 -0400]
+wait time is : 992
+WGET http://cs.hbg.psu.edu/ms/mstracks.html
+[23/Sep/2014:18:34:41 -0400]
+wait time is : 922
+WGET http://cs.hbg.psu.edu/mspapers/sources/jayanthi-pathapati.pdf
+[23/Sep/2014:19:07:55 -0400]
+wait time is : 1994
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[23/Sep/2014:19:07:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.s97/exam1/node1.html
+[23/Sep/2014:19:09:05 -0400]
+wait time is : 70
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[23/Sep/2014:19:16:04 -0400]
+wait time is : 419
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[23/Sep/2014:19:20:49 -0400]
+wait time is : 285
+WGET http://cs.hbg.psu.edu/csjob/jobs.html
+[23/Sep/2014:19:50:34 -0400]
+wait time is : 1785
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[23/Sep/2014:19:54:41 -0400]
+wait time is : 247
+WGET http://cs.hbg.psu.edu/~rawalker/
+[23/Sep/2014:20:01:55 -0400]
+wait time is : 434
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-others.html
+[23/Sep/2014:20:15:04 -0400]
+wait time is : 789
+WGET http://cs.hbg.psu.edu/ms/index.html
+[23/Sep/2014:20:16:04 -0400]
+wait time is : 60
+WGET http://cs.hbg.psu.edu/~null/
+[23/Sep/2014:20:17:44 -0400]
+wait time is : 100
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/exam1/gen.gif
+[23/Sep/2014:20:35:00 -0400]
+wait time is : 1036
+WGET http://cs.hbg.psu.edu/robots.txt
+[23/Sep/2014:20:35:00 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/
+[23/Sep/2014:21:03:07 -0400]
+wait time is : 1687
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:21:03:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:21:03:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[23/Sep/2014:21:43:33 -0400]
+wait time is : 2425
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides02-before.pdf
+[23/Sep/2014:21:57:03 -0400]
+wait time is : 810
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[23/Sep/2014:22:03:19 -0400]
+wait time is : 376
+WGET http://cs.hbg.psu.edu/cmpsc487/HW3_ReqmntsFromUseCase.pdf
+[23/Sep/2014:22:22:28 -0400]
+wait time is : 1149
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[23/Sep/2014:23:06:48 -0400]
+wait time is : 2660
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[23/Sep/2014:23:06:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[23/Sep/2014:23:06:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:00:23:02 -0400]
+wait time is : 4573
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:00:23:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[24/Sep/2014:00:23:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:01:19:29 -0400]
+wait time is : 3387
+WGET http://cs.hbg.psu.edu/robots.txt
+[24/Sep/2014:01:19:44 -0400]
+wait time is : 15
+WGET http://cs.hbg.psu.edu/
+[24/Sep/2014:01:19:53 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-entrance.html
+[24/Sep/2014:01:20:04 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-psu.html
+[24/Sep/2014:01:20:11 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-hacc.html
+[24/Sep/2014:01:20:19 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/math-degree.html
+[24/Sep/2014:01:20:28 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-minor.html
+[24/Sep/2014:01:20:39 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/csjob/jobs.html
+[24/Sep/2014:01:20:47 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[24/Sep/2014:01:20:56 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[24/Sep/2014:01:21:03 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-hacc.html
+[24/Sep/2014:01:21:10 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-others.html
+[24/Sep/2014:01:21:16 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:01:21:26 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csminor.html
+[24/Sep/2014:01:21:33 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/ms/msentrance.html
+[24/Sep/2014:01:21:42 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/ms/msdegree.html
+[24/Sep/2014:01:21:49 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[24/Sep/2014:01:21:56 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-faq.html
+[24/Sep/2014:01:22:06 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/resources/journal-list.html
+[24/Sep/2014:01:22:16 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/misc/index.html
+[24/Sep/2014:01:22:26 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[24/Sep/2014:01:22:35 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[24/Sep/2014:01:22:43 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/cs/cstypical.html
+[24/Sep/2014:01:22:50 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[24/Sep/2014:01:23:00 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/math/index.html
+[24/Sep/2014:01:23:09 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[24/Sep/2014:01:23:20 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/math/math-faculty.html
+[24/Sep/2014:01:23:29 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-students.html
+[24/Sep/2014:01:23:39 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/index.html
+[24/Sep/2014:01:23:48 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/cs/cscourses.html
+[24/Sep/2014:01:23:56 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/iug/index.html
+[24/Sep/2014:01:24:06 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csfaculty.html
+[24/Sep/2014:01:24:16 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[24/Sep/2014:01:24:25 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/contact.html
+[24/Sep/2014:01:24:36 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/misc/facilities.html
+[24/Sep/2014:01:24:43 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/misc/financial-aid.html
+[24/Sep/2014:01:24:51 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/ms/index.html
+[24/Sep/2014:01:24:59 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/ms/mscourses.html
+[24/Sep/2014:01:25:07 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/ms/mstracks.html
+[24/Sep/2014:01:25:16 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[24/Sep/2014:01:25:23 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/ms/msstudents.html
+[24/Sep/2014:01:25:32 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/usage.html
+[24/Sep/2014:01:25:41 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/ethics.html
+[24/Sep/2014:01:25:49 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/index.html
+[24/Sep/2014:01:25:57 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/math-degree-general.html
+[24/Sep/2014:01:26:04 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-typical-general.html
+[24/Sep/2014:01:26:12 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/math-general-prereq.html
+[24/Sep/2014:01:26:20 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/math-degree-general-2009-2013.html
+[24/Sep/2014:01:26:28 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/math-typical-general-2009-2013.html
+[24/Sep/2014:01:26:35 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-general-prereq-2009-2013.html
+[24/Sep/2014:01:26:42 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-degree-mathed.html
+[24/Sep/2014:01:26:51 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-typical-mathed.html
+[24/Sep/2014:01:27:00 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq.html
+[24/Sep/2014:01:27:09 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-degree-mathed-2011-2013.html
+[24/Sep/2014:01:27:19 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/math/math-typical-mathed-2011-2013.html
+[24/Sep/2014:01:27:26 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq-2011-2013.html
+[24/Sep/2014:01:27:33 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/math-degree-mathed-2009-2011.html
+[24/Sep/2014:01:27:43 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/math/math-typical-mathed-2009-2011.html
+[24/Sep/2014:01:27:51 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/math/old-madegree.html
+[24/Sep/2014:01:28:01 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csdegree-before-2013.html
+[24/Sep/2014:01:28:09 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/cs/csdegree-before-2010.html
+[24/Sep/2014:01:28:19 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csminor-before-2013.html
+[24/Sep/2014:01:28:25 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/ms/msdegree-old.html
+[24/Sep/2014:01:28:35 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/ms/ms400courses.html
+[24/Sep/2014:01:28:44 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/gr-todo.html
+[24/Sep/2014:01:28:53 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/email-info.html
+[24/Sep/2014:01:29:01 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/misc/ug-cs-todo.html
+[24/Sep/2014:01:29:10 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/ug-math-todo.html
+[24/Sep/2014:01:29:19 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/misc/
+[24/Sep/2014:01:29:29 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/cstypical-before-2013.html
+[24/Sep/2014:01:29:38 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/cs/cstypical-before-2010.html
+[24/Sep/2014:01:29:48 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csprereq-before-2013.html
+[24/Sep/2014:01:29:56 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/cs/csprereq-before-2010.html
+[24/Sep/2014:01:30:04 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/%7Ejjb24/
+[24/Sep/2014:01:30:12 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/%7Ebui
+[24/Sep/2014:01:30:19 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Esukmoon/
+[24/Sep/2014:01:30:28 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/
+[24/Sep/2014:01:30:35 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/iug/iugapply.html
+[24/Sep/2014:01:30:44 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/iug/iugdegree.html
+[24/Sep/2014:01:30:53 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/iug/iugtuition.html
+[24/Sep/2014:01:31:00 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/iug/iugschedule-after-2013s.html
+[24/Sep/2014:01:31:09 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/iug/iugschedule-before-2013s.html
+[24/Sep/2014:01:31:18 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/iug/iugschedule.html
+[24/Sep/2014:01:31:26 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/misc/unix.txt
+[24/Sep/2014:01:31:33 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/old-madegree-masc.html
+[24/Sep/2014:01:31:40 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/math/old-madegree-mathed.html
+[24/Sep/2014:01:31:49 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/old-matypical-masc.html
+[24/Sep/2014:01:31:58 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/old-matypical-mathed.html
+[24/Sep/2014:01:32:05 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/cs/cscourses-before-2013.html
+[24/Sep/2014:01:32:13 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/%7Ebui/
+[24/Sep/2014:01:32:23 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/index.html
+[24/Sep/2014:01:32:32 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/math/math-courses-2009-2013.html
+[24/Sep/2014:01:32:42 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/farm.html
+[24/Sep/2014:01:32:50 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/%7Enull/personal/horses.html
+[24/Sep/2014:01:32:57 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/fishing.html
+[24/Sep/2014:01:33:06 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/pets.html
+[24/Sep/2014:01:33:16 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/about.html
+[24/Sep/2014:01:33:25 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/ourfarm.html
+[24/Sep/2014:01:33:32 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/seasons.html
+[24/Sep/2014:01:33:41 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/wildlife.html
+[24/Sep/2014:01:33:51 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/sunsets.html
+[24/Sep/2014:01:33:58 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/farmmisc.html
+[24/Sep/2014:01:34:08 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/annie.html
+[24/Sep/2014:01:34:18 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/shiloh.html
+[24/Sep/2014:01:34:27 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/ellie.html
+[24/Sep/2014:01:34:36 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/pasthorses.html
+[24/Sep/2014:01:34:45 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/horsemisc.html
+[24/Sep/2014:01:34:56 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/%7Enull/personal/alaska.html
+[24/Sep/2014:01:35:05 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/canada.html
+[24/Sep/2014:01:35:15 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/minnesota.html
+[24/Sep/2014:01:35:22 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/pond.html
+[24/Sep/2014:01:35:29 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/fishmisc.html
+[24/Sep/2014:01:35:38 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/%7Enull/personal/cats.html
+[24/Sep/2014:01:35:48 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/moppet.html
+[24/Sep/2014:01:35:58 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/%7Enull/personal/pastpets.html
+[24/Sep/2014:01:36:05 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/%7Enull/personal/petsmisc.html
+[24/Sep/2014:01:50:07 -0400]
+wait time is : 842
+WGET http://cs.hbg.psu.edu/cmpsc472/hw3.html
+[24/Sep/2014:02:01:55 -0400]
+wait time is : 708
+WGET http://cs.hbg.psu.edu/csjob/FrontierRecNET.html
+[24/Sep/2014:02:01:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-220-11f.htm
+[24/Sep/2014:02:01:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/csjob/Spectrum.html
+[24/Sep/2014:02:01:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/CAP160S-10f.htm
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/csjob/XeroxEmbedded.html
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/csjob/jobs.html.jrb
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-entrance-checklist-hacc.html
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-general-prereq.html
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/%7Erawalker/Homework-110-13s.htm
+[24/Sep/2014:02:01:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-140-10s.htm
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq-2011-2013.html
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-typical-general-2009-2013.html
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/misc/
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/misc/gr-todo.html
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~wagner/ASTG/ASTG%20Overview.htm
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms400courses.html
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-425-11f.htm
+[24/Sep/2014:02:01:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~ius13/nonlinear_anal_2006.pdf
+[24/Sep/2014:02:01:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~ius13/nth_submitted.pdf
+[24/Sep/2014:02:01:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Problem_Sets-435-10f.htm
+[24/Sep/2014:02:01:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Problem_Sets-220-12s.htm
+[24/Sep/2014:02:01:58 -0400];"GET /acm/?C=M
+wait time is : 0
+WGET http://cs.hbg.psu.eduHTTP/1.1"
+[24/Sep/2014:02:01:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/
+[24/Sep/2014:02:01:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-110-13s.htm
+[24/Sep/2014:02:01:58 -0400];"GET /acm/?C=S
+wait time is : 0
+WGET http://cs.hbg.psu.eduHTTP/1.1"
+[24/Sep/2014:02:01:59 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~rawalker/Homework-430-09f.htm
+[24/Sep/2014:02:01:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~msr1/index.html
+[24/Sep/2014:02:01:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/%7Erawalker/
+[24/Sep/2014:02:37:51 -0400]
+wait time is : 2152
+WGET http://cs.hbg.psu.edu/robots.txt
+[24/Sep/2014:02:37:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc487/ieeestds_list.htm
+[24/Sep/2014:03:00:56 -0400]
+wait time is : 1385
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_cons.html
+[24/Sep/2014:03:15:48 -0400]
+wait time is : 892
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[24/Sep/2014:03:24:49 -0400]
+wait time is : 541
+WGET http://cs.hbg.psu.edu/cs/csfaq.html
+[24/Sep/2014:03:44:43 -0400]
+wait time is : 1194
+WGET http://cs.hbg.psu.edu/aims/
+[24/Sep/2014:04:05:56 -0400]
+wait time is : 1273
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:04:57:33 -0400]
+wait time is : 3097
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[24/Sep/2014:04:57:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/msfaq.html
+[24/Sep/2014:05:15:22 -0400]
+wait time is : 1069
+WGET http://cs.hbg.psu.edu/
+[24/Sep/2014:05:51:46 -0400]
+wait time is : 2184
+WGET http://cs.hbg.psu.edu/mspapers/sources/xuhui-lu.pdf
+[24/Sep/2014:05:52:48 -0400]
+wait time is : 62
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss114.html
+[24/Sep/2014:06:05:22 -0400]
+wait time is : 754
+WGET http://cs.hbg.psu.edu/comp512.papers/birman.pdf
+[24/Sep/2014:06:51:46 -0400]
+wait time is : 2784
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:06:51:46 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[24/Sep/2014:06:51:47 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:06:55:16 -0400]
+wait time is : 209
+WGET http://cs.hbg.psu.edu/cmpsc487/Ch03%20-%20System%20Engineering.pdf
+[24/Sep/2014:07:31:11 -0400]
+wait time is : 2155
+WGET http://cs.hbg.psu.edu/cmpsc487/ieeestds_list.htm
+[24/Sep/2014:07:43:12 -0400]
+wait time is : 721
+WGET http://cs.hbg.psu.edu/robots.txt
+[24/Sep/2014:07:43:12 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/asa-hbg/newsletters/May03.pdf
+[24/Sep/2014:08:22:17 -0400]
+wait time is : 2345
+WGET http://cs.hbg.psu.edu/txn131/clique.html
+[24/Sep/2014:08:22:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:08:22:17 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:08:22:43 -0400]
+wait time is : 26
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/brock200_1.clq.b
+[24/Sep/2014:08:22:56 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/MANN_a27.clq
+[24/Sep/2014:08:23:06 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/MANN_a27.clq
+[24/Sep/2014:08:24:45 -0400]
+wait time is : 99
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/johnson8-2-4.clq.b
+[24/Sep/2014:08:27:33 -0400]
+wait time is : 168
+WGET http://cs.hbg.psu.edu/cs/index.html
+[24/Sep/2014:08:41:33 -0400]
+wait time is : 840
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:08:45:38 -0400]
+wait time is : 245
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/MANN_a9.clq.b
+[24/Sep/2014:08:46:57 -0400]
+wait time is : 79
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/DSJC500.5.clq
+[24/Sep/2014:08:47:04 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/DSJC500.5.clq
+[24/Sep/2014:09:11:17 -0400]
+wait time is : 1453
+WGET http://cs.hbg.psu.edu/txn131/file_instances/converter.tar.gz
+[24/Sep/2014:09:21:24 -0400]
+wait time is : 607
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/Additional_cliques/C125.9.clq
+[24/Sep/2014:09:22:50 -0400]
+wait time is : 86
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/keller6.clq.b
+[24/Sep/2014:09:29:57 -0400]
+wait time is : 427
+WGET http://cs.hbg.psu.edu/mspapers/sources/xiaoyu-sun.pdf
+[24/Sep/2014:10:08:24 -0400]
+wait time is : 2307
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[24/Sep/2014:10:10:26 -0400]
+wait time is : 122
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss191-writeup.html
+[24/Sep/2014:10:41:47 -0400]
+wait time is : 1881
+WGET http://cs.hbg.psu.edu/
+[24/Sep/2014:10:44:05 -0400]
+wait time is : 138
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[24/Sep/2014:10:57:47 -0400]
+wait time is : 822
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[24/Sep/2014:10:57:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[24/Sep/2014:11:04:55 -0400]
+wait time is : 428
+WGET http://cs.hbg.psu.edu/cmpsc487/ieeestds_list.htm
+[24/Sep/2014:11:14:35 -0400]
+wait time is : 580
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq.html
+[24/Sep/2014:11:46:54 -0400]
+wait time is : 1939
+WGET http://cs.hbg.psu.edu/cmpsc312/Quiz4B_Solution.pdf
+[24/Sep/2014:11:47:25 -0400]
+wait time is : 31
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:11:47:26 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[24/Sep/2014:11:47:26 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:12:14:41 -0400]
+wait time is : 1635
+WGET http://cs.hbg.psu.edu/mspapers/sources/john-wigger.pdf
+[24/Sep/2014:12:54:57 -0400]
+wait time is : 2416
+WGET http://cs.hbg.psu.edu/mspapers/sources/robert-eyer.pdf
+[24/Sep/2014:12:54:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/robert-eyer.pdf
+[24/Sep/2014:12:54:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/robert-eyer.pdf
+[24/Sep/2014:12:54:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:13:21:39 -0400]
+wait time is : 1601
+WGET http://cs.hbg.psu.edu/mspapers/sources/
+[24/Sep/2014:13:22:20 -0400]
+wait time is : 41
+WGET http://cs.hbg.psu.edu/cmpsc312/Ch09_ECOA3e.pdf
+[24/Sep/2014:13:30:05 -0400]
+wait time is : 465
+WGET http://cs.hbg.psu.edu/~ding/publications/SAC00.pdf
+[24/Sep/2014:13:35:59 -0400]
+wait time is : 354
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss011.html
+[24/Sep/2014:13:49:16 -0400]
+wait time is : 797
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:49:33 -0400]
+wait time is : 17
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:10 -0400]
+wait time is : 37
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:23 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:26 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:49:28 -0400]
+wait time is : -58
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:30 -0400]
+wait time is : 62
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:33 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:34 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:10 -0400]
+wait time is : -24
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:50:27 -0400]
+wait time is : 17
+WGET http://cs.hbg.psu.edu/mspapers/sources/ping-wang.pdf
+[24/Sep/2014:13:56:29 -0400]
+wait time is : 362
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides02.pdf
+[24/Sep/2014:14:08:41 -0400]
+wait time is : 732
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[24/Sep/2014:14:23:11 -0400]
+wait time is : 870
+WGET http://cs.hbg.psu.edu/comp413/
+[24/Sep/2014:14:39:35 -0400]
+wait time is : 984
+WGET http://cs.hbg.psu.edu/comp512.projects/mkotovsky-paper.pdf
+[24/Sep/2014:14:39:55 -0400]
+wait time is : 20
+WGET http://cs.hbg.psu.edu/~w44/
+[24/Sep/2014:14:39:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~w44/smallbookcover.gif
+[24/Sep/2014:14:39:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~w44/index_files/image002.gif
+[24/Sep/2014:14:39:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~w44/rivets.gif
+[24/Sep/2014:14:39:56 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:14:40:32 -0400]
+wait time is : 36
+WGET http://cs.hbg.psu.edu/~wagner
+[24/Sep/2014:14:40:33 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~wagner/
+[24/Sep/2014:14:40:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:14:40:43 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:14:45:10 -0400]
+wait time is : 267
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss215.html
+[24/Sep/2014:14:51:30 -0400]
+wait time is : 380
+WGET http://cs.hbg.psu.edu/LOCAL/cltl/digital_press/
+[24/Sep/2014:14:52:03 -0400]
+wait time is : 33
+WGET http://cs.hbg.psu.edu/math/math-prereq.html
+[24/Sep/2014:15:27:36 -0400]
+wait time is : 2133
+WGET http://cs.hbg.psu.edu/comp519/
+[24/Sep/2014:15:27:36 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:15:27:36 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:15:27:38 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp594/
+[24/Sep/2014:15:27:41 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/comp594/594f14.pdf
+[24/Sep/2014:15:35:54 -0400]
+wait time is : 493
+WGET http://cs.hbg.psu.edu/comp594/
+[24/Sep/2014:15:35:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp594/efficientReading.pdf
+[24/Sep/2014:15:35:56 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp594/efficientReading.pdf
+[24/Sep/2014:15:37:49 -0400]
+wait time is : 113
+WGET http://cs.hbg.psu.edu/comp519/519f13.pdf
+[24/Sep/2014:16:00:57 -0400]
+wait time is : 1388
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_cons.html
+[24/Sep/2014:16:02:17 -0400]
+wait time is : 80
+WGET http://cs.hbg.psu.edu/~jjb24/animations2.html
+[24/Sep/2014:16:02:48 -0400]
+wait time is : 31
+WGET http://cs.hbg.psu.edu/cse121/Lecture2/ProgAssignment1.pdf
+[24/Sep/2014:16:07:31 -0400]
+wait time is : 283
+WGET http://cs.hbg.psu.edu/mspapers/sources/
+[24/Sep/2014:16:07:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/katie-zrncic.pdf
+[24/Sep/2014:16:07:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/mspapers/sources/katie-zrncic.pdf
+[24/Sep/2014:16:08:20 -0400]
+wait time is : 47
+WGET http://cs.hbg.psu.edu/mspapers/sources/
+[24/Sep/2014:16:08:20 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/mspapers/sources/duanqing-wu.pdf
+[24/Sep/2014:16:41:38 -0400]
+wait time is : 1998
+WGET http://cs.hbg.psu.edu/txn131/file_instances/clique/DIMACS_cliques/brock400_1.clq.b
+[24/Sep/2014:16:42:52 -0400]
+wait time is : 74
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign3.html
+[24/Sep/2014:16:43:11 -0400]
+wait time is : 19
+WGET http://cs.hbg.psu.edu/txn131/clique.html
+[24/Sep/2014:16:43:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:16:43:19 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/txn131/index.html
+[24/Sep/2014:16:46:29 -0400]
+wait time is : 190
+WGET http://cs.hbg.psu.edu/~jjb24/ieeextreme60/problem_ad.html
+[24/Sep/2014:16:51:23 -0400]
+wait time is : 294
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[24/Sep/2014:16:51:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:16:51:30 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/cltl/
+[24/Sep/2014:17:16:45 -0400]
+wait time is : 1515
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_a-1-5.html
+[24/Sep/2014:17:20:11 -0400]
+wait time is : 206
+WGET http://cs.hbg.psu.edu/cmpsc472/
+[24/Sep/2014:17:20:14 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/cmpsc472/hw3.html
+[24/Sep/2014:17:33:04 -0400]
+wait time is : 770
+WGET http://cs.hbg.psu.edu/cse103/classNotes/chapter6.ppt
+[24/Sep/2014:17:33:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cse103/classNotes/chapter6.ppt
+[24/Sep/2014:17:33:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cse103/classNotes/chapter6.ppt
+[24/Sep/2014:17:33:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cse103/classNotes/chapter6.ppt
+[24/Sep/2014:17:51:28 -0400]
+wait time is : 1103
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[24/Sep/2014:18:38:41 -0400]
+wait time is : 2833
+WGET http://cs.hbg.psu.edu/wp-admin/
+[24/Sep/2014:18:41:29 -0400]
+wait time is : 168
+WGET http://cs.hbg.psu.edu/comp435/printing.html
+[24/Sep/2014:19:27:18 -0400]
+wait time is : 2749
+WGET http://cs.hbg.psu.edu/robotics/default.css
+[24/Sep/2014:19:31:42 -0400]
+wait time is : 264
+WGET http://cs.hbg.psu.edu/~rawalker/LinDep-post.pdf
+[24/Sep/2014:19:31:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/LinDep-post.pdf
+[24/Sep/2014:19:31:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~rawalker/LinDep-post.pdf
+[24/Sep/2014:19:31:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:19:46:29 -0400]
+wait time is : 887
+WGET http://cs.hbg.psu.edu/mspapers/sources/julia-lobur.pdf
+[24/Sep/2014:19:51:29 -0400]
+wait time is : 300
+WGET http://cs.hbg.psu.edu/math/math-mathed-prereq.html
+[24/Sep/2014:19:52:31 -0400]
+wait time is : 62
+WGET http://cs.hbg.psu.edu/
+[24/Sep/2014:20:01:29 -0400]
+wait time is : 538
+WGET http://cs.hbg.psu.edu/~null/personal/wildlife.html
+[24/Sep/2014:20:21:49 -0400]
+wait time is : 1220
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:20:29:55 -0400]
+wait time is : 486
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:20:29:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[24/Sep/2014:20:29:56 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[24/Sep/2014:20:34:45 -0400]
+wait time is : 289
+WGET http://cs.hbg.psu.edu/cmpsc487/NewRUP.GIF
+[24/Sep/2014:20:41:29 -0400]
+wait time is : 404
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[24/Sep/2014:21:16:13 -0400]
+wait time is : 2084
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:21:19:17 -0400]
+wait time is : 184
+WGET http://cs.hbg.psu.edu/~ding/publications/SAC02_db15.pdf
+[24/Sep/2014:21:31:30 -0400]
+wait time is : 733
+WGET http://cs.hbg.psu.edu/mspapers/sources/bhavin-parikh.pdf
+[24/Sep/2014:21:34:51 -0400]
+wait time is : 201
+WGET http://cs.hbg.psu.edu/ecoa3e2.jpg
+[24/Sep/2014:21:41:30 -0400]
+wait time is : 399
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.f96/final/node1.html
+[24/Sep/2014:22:26:30 -0400]
+wait time is : 2700
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4.html
+[24/Sep/2014:22:28:10 -0400]
+wait time is : 100
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[24/Sep/2014:22:28:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[24/Sep/2014:23:17:28 -0400]
+wait time is : 2957
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[24/Sep/2014:23:21:31 -0400]
+wait time is : 243
+WGET http://cs.hbg.psu.edu/comp413/se7_ch10_v07.pdf
+[24/Sep/2014:23:26:31 -0400]
+wait time is : 300
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides02-before.pdf
+[25/Sep/2014:00:01:28 -0400]
+wait time is : 2097
+WGET http://cs.hbg.psu.edu/robotics/images/PSH.gif
+[25/Sep/2014:00:36:31 -0400]
+wait time is : 2103
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign4.html
+[25/Sep/2014:01:15:57 -0400]
+wait time is : 2366
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:01:32:29 -0400]
+wait time is : 992
+WGET http://cs.hbg.psu.edu/robots.txt
+[25/Sep/2014:01:32:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512/
+[25/Sep/2014:01:37:29 -0400]
+wait time is : 300
+WGET http://cs.hbg.psu.edu/mspapers/advisors.html
+[25/Sep/2014:02:43:33 -0400]
+wait time is : 3964
+WGET http://cs.hbg.psu.edu/cmpsc487/Ch01-Ch02.pdf
+[25/Sep/2014:02:56:34 -0400]
+wait time is : 781
+WGET http://cs.hbg.psu.edu/mspapers/sources/
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 318
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/rm9x-B-03.html
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/icon_up.gif
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/ladyada-icon.gif
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/icon_forward.gif
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/icon_left.gif
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/icon_back.gif
+[25/Sep/2014:03:01:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/rm95html-1.0/icon_right.gif
+[25/Sep/2014:04:30:51 -0400]
+wait time is : 5339
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:04:30:52 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/index-style.css
+[25/Sep/2014:04:30:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[25/Sep/2014:04:30:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[25/Sep/2014:04:30:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[25/Sep/2014:04:30:53 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:04:32:00 -0400]
+wait time is : 67
+WGET http://cs.hbg.psu.edu/~null/
+[25/Sep/2014:04:32:01 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~null/texty_logo.jpg
+[25/Sep/2014:04:32:01 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/ecoa4e.jpg
+[25/Sep/2014:04:32:01 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/granite3.jpg
+[25/Sep/2014:04:32:22 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu/~jjb24/
+[25/Sep/2014:04:32:27 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/~null/personal/index.html
+[25/Sep/2014:04:32:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~null/personal/styletest.css
+[25/Sep/2014:04:32:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/background.gif
+[25/Sep/2014:04:32:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/main3.jpg
+[25/Sep/2014:05:14:57 -0400]
+wait time is : 2549
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:05:26:44 -0400]
+wait time is : 707
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-F.html
+[25/Sep/2014:05:26:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-E.html
+[25/Sep/2014:05:26:45 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-D.html
+[25/Sep/2014:05:26:50 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_26-1.html
+[25/Sep/2014:05:27:01 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-A.html
+[25/Sep/2014:05:27:08 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-W.html
+[25/Sep/2014:05:27:20 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-N.html
+[25/Sep/2014:05:27:42 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-B.html
+[25/Sep/2014:05:28:32 -0400]
+wait time is : 50
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-Q.html
+[25/Sep/2014:05:28:58 -0400]
+wait time is : 26
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-L.html
+[25/Sep/2014:05:29:48 -0400]
+wait time is : 50
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-C.html
+[25/Sep/2014:05:30:01 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-O.html
+[25/Sep/2014:05:30:14 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-H.html
+[25/Sep/2014:05:30:53 -0400]
+wait time is : 39
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-Z.html
+[25/Sep/2014:05:31:22 -0400]
+wait time is : 29
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/FrontMatter/Master-Index-Non-Alphabetic.html
+[25/Sep/2014:05:31:40 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_not.html
+[25/Sep/2014:05:31:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_a.html
+[25/Sep/2014:05:31:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_k.html
+[25/Sep/2014:05:31:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/acc_get.html
+[25/Sep/2014:05:31:45 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_p.html
+[25/Sep/2014:05:31:47 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_u.html
+[25/Sep/2014:05:31:50 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_b.html
+[25/Sep/2014:05:31:51 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-a.html
+[25/Sep/2014:05:31:52 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-1.html
+[25/Sep/2014:05:31:54 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-9.html
+[25/Sep/2014:05:31:56 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-10.html
+[25/Sep/2014:05:31:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-25.html
+[25/Sep/2014:05:31:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_eq.html
+[25/Sep/2014:05:31:59 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-16.html
+[25/Sep/2014:05:32:00 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typ_bit.html
+[25/Sep/2014:05:32:04 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-13.html
+[25/Sep/2014:05:32:06 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-17.html
+[25/Sep/2014:05:32:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-24.html
+[25/Sep/2014:05:32:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-11.html
+[25/Sep/2014:05:32:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/chap-14.html
+[25/Sep/2014:05:32:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_eval.html
+[25/Sep/2014:05:32:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/acc_getf.html
+[25/Sep/2014:05:32:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_warn.html
+[25/Sep/2014:05:32:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_null.html
+[25/Sep/2014:05:32:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_endp.html
+[25/Sep/2014:05:32:17 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_apply.html
+[25/Sep/2014:05:32:18 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_a-1-3.html
+[25/Sep/2014:05:32:19 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/res_abort.html
+[25/Sep/2014:05:32:20 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-3.html
+[25/Sep/2014:05:32:22 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_break.html
+[25/Sep/2014:05:32:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_nthcdr.html
+[25/Sep/2014:05:32:25 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_export.html
+[25/Sep/2014:05:32:26 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_arrayp.html
+[25/Sep/2014:05:32:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_import.html
+[25/Sep/2014:05:32:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_adjoin.html
+[25/Sep/2014:05:32:31 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-6-6-4.html
+[25/Sep/2014:05:32:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_inspect.html
+[25/Sep/2014:05:32:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-8-4.html
+[25/Sep/2014:05:32:35 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-8-12.html
+[25/Sep/2014:05:32:37 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-5-3.html
+[25/Sep/2014:05:32:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_keywordp.html
+[25/Sep/2014:05:32:40 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-7-1.html
+[25/Sep/2014:05:32:42 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_unexport.html
+[25/Sep/2014:05:32:44 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-7-6.html
+[25/Sep/2014:05:32:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_6-1-2-1-1.html
+[25/Sep/2014:05:32:45 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_nth-value.html
+[25/Sep/2014:05:32:46 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/res_use-value.html
+[25/Sep/2014:05:32:50 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_write-byte.html
+[25/Sep/2014:05:32:53 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_fmakunbound.html
+[25/Sep/2014:05:32:54 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_use-package.html
+[25/Sep/2014:05:32:56 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_find-restart.html
+[25/Sep/2014:05:32:58 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_alpha-char-p.html
+[25/Sep/2014:05:32:58 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_bit-vector-p.html
+[25/Sep/2014:05:33:00 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_hash-table-p.html
+[25/Sep/2014:05:33:00 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_sqrtcm_isqrt.html
+[25/Sep/2014:05:33:02 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/contyp_file-error.html
+[25/Sep/2014:05:33:06 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/glo_non-alphabetic.html
+[25/Sep/2014:05:33:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_write-sequence.html
+[25/Sep/2014:05:33:13 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_find-all-symbols.html
+[25/Sep/2014:05:33:15 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/Issues-Alphabetical.html
+[25/Sep/2014:05:33:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/stagenfun_find-method.html
+[25/Sep/2014:05:33:20 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_asincm_acoscm_atan.html
+[25/Sep/2014:05:33:20 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/dec_inlinecm_notinline.html
+[25/Sep/2014:05:33:21 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_multiple-value-setq.html
+[25/Sep/2014:05:33:22 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/contyp_unbound-variable.html
+[25/Sep/2014:05:33:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_revappendcm_nreconc.html
+[25/Sep/2014:05:33:26 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/acc_firstcm_s_inthcm_tenth.html
+[25/Sep/2014:05:33:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/stagenfun_all_ate-instance.html
+[25/Sep/2014:05:33:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/contyp_floati_id-operation.html
+[25/Sep/2014:05:33:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_get-unive_decoded-time.html
+[25/Sep/2014:05:33:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_boole-_cm_boole-xor.html
+[25/Sep/2014:05:33:30 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_array-_l-size-limit.html
+[25/Sep/2014:05:33:31 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_set-exclu_exclusive-or.html
+[25/Sep/2014:05:33:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_writecm_p_rintcm_princ.html
+[25/Sep/2014:05:33:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_with-cond_ion-restarts.html
+[25/Sep/2014:05:33:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_upgraded-_ex-part-type.html
+[25/Sep/2014:05:33:35 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_array-_ension-limit.html
+[25/Sep/2014:05:33:36 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_bytecm_by_yte-position.html
+[25/Sep/2014:05:33:37 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_get-outpu_tream-string.html
+[25/Sep/2014:05:33:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_namestrin_h-namestring.html
+[25/Sep/2014:05:33:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_set-diffe_t-difference.html
+[25/Sep/2014:05:33:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_array-has_ll-pointer-p.html
+[25/Sep/2014:05:33:40 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_broadcast_ream-streams.html
+[25/Sep/2014:05:33:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_with-input-from-string.html
+[25/Sep/2014:05:33:43 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_hash-tabl_sh-threshold.html
+[25/Sep/2014:05:33:45 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_-.html
+[25/Sep/2014:05:33:49 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-9.html
+[25/Sep/2014:05:33:51 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/dec_type.html
+[25/Sep/2014:05:33:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_loop.html
+[25/Sep/2014:05:33:53 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_last.html
+[25/Sep/2014:05:33:56 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-2.html
+[25/Sep/2014:05:33:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-4.html
+[25/Sep/2014:05:33:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-5-2.html
+[25/Sep/2014:05:34:01 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_psetq.html
+[25/Sep/2014:05:34:04 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_random.html
+[25/Sep/2014:05:34:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typspe_mod.html
+[25/Sep/2014:05:34:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_length.html
+[25/Sep/2014:05:34:08 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-1-5.html
+[25/Sep/2014:05:34:10 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-1-2.html
+[25/Sep/2014:05:34:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_pairlis.html
+[25/Sep/2014:05:34:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-1-3.html
+[25/Sep/2014:05:34:13 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_declaim.html
+[25/Sep/2014:05:34:14 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_logtest.html
+[25/Sep/2014:05:34:17 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-8-20.html
+[25/Sep/2014:05:34:21 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-8-2.html
+[25/Sep/2014:05:34:25 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_pathname.html
+[25/Sep/2014:05:34:27 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-1-2.html
+[25/Sep/2014:05:34:30 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-5-1.html
+[25/Sep/2014:05:34:31 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-3-2.html
+[25/Sep/2014:05:34:34 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_directory.html
+[25/Sep/2014:05:34:36 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_docm_dost.html
+[25/Sep/2014:05:34:38 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_copy-list.html
+[25/Sep/2014:05:34:43 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_readtablep.html
+[25/Sep/2014:05:34:43 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_11-1-2-1-2.html
+[25/Sep/2014:05:34:46 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-1-4.html
+[25/Sep/2014:05:34:48 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/acc_mask-field.html
+[25/Sep/2014:05:34:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-1-2.html
+[25/Sep/2014:05:34:50 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_pprint-tab.html
+[25/Sep/2014:05:34:55 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/dec_declaration.html
+[25/Sep/2014:05:34:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/speope_eval-when.html
+[25/Sep/2014:05:34:56 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_19-2-2-1-2-2.html
+[25/Sep/2014:05:34:58 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_make-package.html
+[25/Sep/2014:05:35:01 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_make-pathname.html
+[25/Sep/2014:05:35:02 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_prog1cm_prog2.html
+[25/Sep/2014:05:35:03 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_ldiffcm_tailp.html
+[25/Sep/2014:05:35:03 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_progcm_progst.html
+[25/Sep/2014:05:35:04 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_parse-integer.html
+[25/Sep/2014:05:35:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_pprint-indent.html
+[25/Sep/2014:05:35:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/speope_letcm_letst.html
+[25/Sep/2014:05:35:08 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_delete-package.html
+[25/Sep/2014:05:35:12 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_machine-version.html
+[25/Sep/2014:05:35:14 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_package-use-list.html
+[25/Sep/2014:05:35:16 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stprint-escapest.html
+[25/Sep/2014:05:35:16 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/contyp_package-error.html
+[25/Sep/2014:05:35:17 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_strandom-statest.html
+[25/Sep/2014:05:35:19 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_logical-pathname.html
+[25/Sep/2014:05:35:22 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stdebugger-hookst.html
+[25/Sep/2014:05:35:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/speope_load-time-value.html
+[25/Sep/2014:05:35:23 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_plcm_plplcm_plplpl.html
+[25/Sep/2014:05:35:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_char-code-limit.html
+[25/Sep/2014:05:35:26 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_define-symbol-macro.html
+[25/Sep/2014:05:35:28 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_define-modify-macro.html
+[25/Sep/2014:05:35:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_make-two-way-stream.html
+[25/Sep/2014:05:35:30 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_define-setf-expander.html
+[25/Sep/2014:05:35:31 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_package-used-by-list.html
+[25/Sep/2014:05:35:32 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_pprint-logical-block.html
+[25/Sep/2014:05:35:32 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_copy-pprint-dispatch.html
+[25/Sep/2014:05:35:37 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stload-pr_ad-verbosest.html
+[25/Sep/2014:05:35:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_upper-cas__both-case-p.html
+[25/Sep/2014:05:35:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_short-sit_ng-site-name.html
+[25/Sep/2014:05:35:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_remove-du_e-duplicates.html
+[25/Sep/2014:05:35:40 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stload-pa_d-truenamest.html
+[25/Sep/2014:05:35:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_print-not_dable-object.html
+[25/Sep/2014:05:35:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_print-unr_dable-object.html
+[25/Sep/2014:05:35:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/convar_lambda_ist-keywords.html
+[25/Sep/2014:05:35:44 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_readcm_re_g-whitespace.html
+[25/Sep/2014:05:35:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/speope_multip_-value-prog1.html
+[25/Sep/2014:05:35:45 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_rassoccm__assoc-if-not.html
+[25/Sep/2014:05:35:46 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_floorcm_f_undcm_fround.html
+[25/Sep/2014:05:35:47 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_lisp-impl_tion-version.html
+[25/Sep/2014:05:35:48 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/stagenfun_met_d-qualifiers.html
+[25/Sep/2014:05:35:49 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stdefault_e-defaultsst.html
+[25/Sep/2014:05:35:52 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_define-me_-combination.html
+[25/Sep/2014:05:35:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_package-s_wing-symbols.html
+[25/Sep/2014:05:35:53 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stprint-l_int-lengthst.html
+[25/Sep/2014:05:35:53 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_two-way-s_utput-stream.html
+[25/Sep/2014:05:35:54 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_macroexpa_acroexpand-1.html
+[25/Sep/2014:05:35:57 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/var_stdebug-i_ace-outputst.html
+[25/Sep/2014:05:35:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_make-disp_ro-character.html
+[25/Sep/2014:05:36:02 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_shadow.html
+[25/Sep/2014:05:36:03 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/mac_shiftf.html
+[25/Sep/2014:05:36:03 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_string.html
+[25/Sep/2014:05:36:05 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/dec_special.html
+[25/Sep/2014:05:36:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_streamp.html
+[25/Sep/2014:05:36:06 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_stringp.html
+[25/Sep/2014:05:36:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-8-22.html
+[25/Sep/2014:05:36:10 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/acc_bitcm_sbit.html
+[25/Sep/2014:05:36:12 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typ_simple-array.html
+[25/Sep/2014:05:36:13 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typspe_satisfies.html
+[25/Sep/2014:05:36:13 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typ_standard-char.html
+[25/Sep/2014:05:36:16 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_shadowing-import.html
+[25/Sep/2014:05:36:18 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/syscla_standard-class.html
+[25/Sep/2014:05:36:19 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/typ_simple-bit-vector.html
+[25/Sep/2014:05:36:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/syscla_synonym-stream.html
+[25/Sep/2014:05:36:23 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/contyp_simple-condition.html
+[25/Sep/2014:05:36:23 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_simple-bit-vector-p.html
+[25/Sep/2014:05:36:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_stream-element-type.html
+[25/Sep/2014:05:36:24 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_synonym-stream-symbol.html
+[25/Sep/2014:05:36:42 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_t.html
+[25/Sep/2014:05:36:47 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-6.html
+[25/Sep/2014:05:36:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-1.html
+[25/Sep/2014:05:36:48 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-5.html
+[25/Sep/2014:05:36:51 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-2.html
+[25/Sep/2014:05:36:52 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4.html
+[25/Sep/2014:05:36:53 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-4.html
+[25/Sep/2014:05:36:56 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss328.html
+[25/Sep/2014:05:36:59 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss006.html
+[25/Sep/2014:05:37:01 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_14-1.html
+[25/Sep/2014:05:37:02 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_10-1.html
+[25/Sep/2014:05:37:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss259.html
+[25/Sep/2014:05:37:04 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss205.html
+[25/Sep/2014:05:37:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss332.html
+[25/Sep/2014:05:37:09 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss248.html
+[25/Sep/2014:05:37:11 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3.html
+[25/Sep/2014:05:37:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss276.html
+[25/Sep/2014:05:37:13 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss046.html
+[25/Sep/2014:05:37:14 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_15-1.html
+[25/Sep/2014:05:37:16 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss266.html
+[25/Sep/2014:05:37:17 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss201.html
+[25/Sep/2014:05:37:18 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss333.html
+[25/Sep/2014:05:37:18 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_19-1.html
+[25/Sep/2014:05:37:21 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss186.html
+[25/Sep/2014:05:37:22 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss091.html
+[25/Sep/2014:05:37:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss052.html
+[25/Sep/2014:05:37:23 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss254.html
+[25/Sep/2014:05:37:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss004.html
+[25/Sep/2014:05:37:24 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss017.html
+[25/Sep/2014:05:37:26 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss249.html
+[25/Sep/2014:05:37:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss007.html
+[25/Sep/2014:05:37:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss194.html
+[25/Sep/2014:05:37:30 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_25-1.html
+[25/Sep/2014:05:37:32 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss263.html
+[25/Sep/2014:05:37:34 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-6.html
+[25/Sep/2014:05:37:35 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-3-1.html
+[25/Sep/2014:05:37:37 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-6-7.html
+[25/Sep/2014:05:37:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-1-4.html
+[25/Sep/2014:05:37:42 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_20-1-3.html
+[25/Sep/2014:05:37:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-4.html
+[25/Sep/2014:05:37:46 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-6-1.html
+[25/Sep/2014:05:37:47 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-10.html
+[25/Sep/2014:05:37:51 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-4-1.html
+[25/Sep/2014:05:37:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-4-7.html
+[25/Sep/2014:05:37:52 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-4-1-5.html
+[25/Sep/2014:05:37:57 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-1-1.html
+[25/Sep/2014:05:37:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-6.html
+[25/Sep/2014:05:37:59 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_12-1-3-3.html
+[25/Sep/2014:05:38:04 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_21-1-1-1-2.html
+[25/Sep/2014:05:38:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-1-1.html
+[25/Sep/2014:05:38:06 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_files_dictionary.html
+[25/Sep/2014:05:38:06 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_arrays_dictionary.html
+[25/Sep/2014:05:38:07 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_conses_dictionary.html
+[25/Sep/2014:05:38:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_seque_s_dictionary.html
+[25/Sep/2014:05:38:10 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_objects_dictionary.html
+[25/Sep/2014:05:38:14 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-2.html
+[25/Sep/2014:05:38:16 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss064.html
+[25/Sep/2014:05:38:18 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss279.html
+[25/Sep/2014:05:38:19 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss278.html
+[25/Sep/2014:05:38:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss269.html
+[25/Sep/2014:05:38:21 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss213.html
+[25/Sep/2014:05:38:23 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss180.html
+[25/Sep/2014:05:38:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss191.html
+[25/Sep/2014:05:38:26 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss104.html
+[25/Sep/2014:05:38:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss084.html
+[25/Sep/2014:05:38:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss185.html
+[25/Sep/2014:05:38:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss349.html
+[25/Sep/2014:05:38:31 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss218.html
+[25/Sep/2014:05:38:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss121.html
+[25/Sep/2014:05:38:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss113.html
+[25/Sep/2014:05:38:36 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss302.html
+[25/Sep/2014:05:38:38 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss214.html
+[25/Sep/2014:05:38:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss286.html
+[25/Sep/2014:05:38:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_23-1.html
+[25/Sep/2014:05:38:40 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss098.html
+[25/Sep/2014:05:38:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss300.html
+[25/Sep/2014:05:38:43 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss219.html
+[25/Sep/2014:05:38:44 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1.html
+[25/Sep/2014:05:38:46 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-6-4.html
+[25/Sep/2014:05:38:47 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_abort.html
+[25/Sep/2014:05:38:49 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-2-2.html
+[25/Sep/2014:05:38:50 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-8.html
+[25/Sep/2014:05:38:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-9.html
+[25/Sep/2014:05:38:53 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-2-4.html
+[25/Sep/2014:05:38:54 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-2-3.html
+[25/Sep/2014:05:38:55 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_17-2-2.html
+[25/Sep/2014:05:38:56 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-10.html
+[25/Sep/2014:05:38:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_20-1-2.html
+[25/Sep/2014:05:38:58 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-3.html
+[25/Sep/2014:05:39:00 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-7.html
+[25/Sep/2014:05:39:01 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-9.html
+[25/Sep/2014:05:39:03 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-8.html
+[25/Sep/2014:05:39:05 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-4-1.html
+[25/Sep/2014:05:39:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-2-1.html
+[25/Sep/2014:05:39:06 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-5-2-2.html
+[25/Sep/2014:05:39:08 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-1-1.html
+[25/Sep/2014:05:39:10 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-1-4.html
+[25/Sep/2014:05:39:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-4-3-1.html
+[25/Sep/2014:05:39:12 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-2-2-3.html
+[25/Sep/2014:05:39:13 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_25-1-4-1.html
+[25/Sep/2014:05:39:29 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_symbols_dictionary.html
+[25/Sep/2014:05:39:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_struc_s_dictionary.html
+[25/Sep/2014:05:39:30 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_syste_n_dictionary.html
+[25/Sep/2014:05:39:33 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss033.html
+[25/Sep/2014:05:39:34 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss314.html
+[25/Sep/2014:05:39:36 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss315.html
+[25/Sep/2014:05:39:37 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss341.html
+[25/Sep/2014:05:39:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss338.html
+[25/Sep/2014:05:39:41 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-3.html
+[25/Sep/2014:05:39:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-3-4.html
+[25/Sep/2014:05:39:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_the_chara_s_dictionary.html
+[25/Sep/2014:05:39:49 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss223.html
+[25/Sep/2014:05:39:51 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss110.html
+[25/Sep/2014:05:39:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss265.html
+[25/Sep/2014:05:39:52 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss230.html
+[25/Sep/2014:05:39:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss347.html
+[25/Sep/2014:05:39:53 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss361.html
+[25/Sep/2014:05:39:54 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss079.html
+[25/Sep/2014:05:39:55 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss282.html
+[25/Sep/2014:05:39:57 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss011.html
+[25/Sep/2014:05:40:00 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss171.html
+[25/Sep/2014:05:40:03 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss209.html
+[25/Sep/2014:05:40:04 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss231.html
+[25/Sep/2014:05:40:04 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss288.html
+[25/Sep/2014:05:40:07 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss274.html
+[25/Sep/2014:05:40:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss159.html
+[25/Sep/2014:05:40:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss058.html
+[25/Sep/2014:05:40:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss134.html
+[25/Sep/2014:05:40:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss239.html
+[25/Sep/2014:05:40:12 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss210.html
+[25/Sep/2014:05:40:15 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss034.html
+[25/Sep/2014:05:40:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss050.html
+[25/Sep/2014:05:40:18 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss131.html
+[25/Sep/2014:05:40:21 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss016.html
+[25/Sep/2014:05:40:23 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss275.html
+[25/Sep/2014:05:40:26 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss322.html
+[25/Sep/2014:05:40:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss106.html
+[25/Sep/2014:05:40:29 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss129.html
+[25/Sep/2014:05:40:31 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss148.html
+[25/Sep/2014:05:40:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss250.html
+[25/Sep/2014:05:40:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss152.html
+[25/Sep/2014:05:40:35 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss187.html
+[25/Sep/2014:05:40:36 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss066.html
+[25/Sep/2014:05:40:37 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss241.html
+[25/Sep/2014:05:40:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss234.html
+[25/Sep/2014:05:40:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss140.html
+[25/Sep/2014:05:40:40 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss195.html
+[25/Sep/2014:05:40:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss316.html
+[25/Sep/2014:05:40:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss112.html
+[25/Sep/2014:05:40:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss008.html
+[25/Sep/2014:05:40:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss054.html
+[25/Sep/2014:05:40:45 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss199.html
+[25/Sep/2014:05:40:47 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss145.html
+[25/Sep/2014:05:40:48 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss147.html
+[25/Sep/2014:05:40:50 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss144.html
+[25/Sep/2014:05:40:52 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss172.html
+[25/Sep/2014:05:40:54 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss358.html
+[25/Sep/2014:05:40:56 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss035.html
+[25/Sep/2014:05:40:58 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss177.html
+[25/Sep/2014:05:40:59 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss019.html
+[25/Sep/2014:05:41:04 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss096.html
+[25/Sep/2014:05:41:05 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss311.html
+[25/Sep/2014:05:41:05 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss074.html
+[25/Sep/2014:05:41:08 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss082.html
+[25/Sep/2014:05:41:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss051.html
+[25/Sep/2014:05:41:11 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss280.html
+[25/Sep/2014:05:41:12 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss233.html
+[25/Sep/2014:05:41:13 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss160.html
+[25/Sep/2014:05:41:15 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss307.html
+[25/Sep/2014:05:41:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss128.html
+[25/Sep/2014:05:41:18 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss023.html
+[25/Sep/2014:05:41:20 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss334.html
+[25/Sep/2014:05:41:22 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss319.html
+[25/Sep/2014:05:41:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_type.html
+[25/Sep/2014:05:41:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_error.html
+[25/Sep/2014:05:41:42 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-4-4.html
+[25/Sep/2014:05:41:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss255-writeup.html
+[25/Sep/2014:05:41:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-1.html
+[25/Sep/2014:05:41:55 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-4.html
+[25/Sep/2014:05:41:59 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-2.html
+[25/Sep/2014:05:42:02 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-2-3.html
+[25/Sep/2014:05:42:14 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-1-7.html
+[25/Sep/2014:05:42:21 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-3-6.html
+[25/Sep/2014:05:42:48 -0400]
+wait time is : 27
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-6.html
+[25/Sep/2014:05:43:36 -0400]
+wait time is : 48
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_11-1-1.html
+[25/Sep/2014:05:43:51 -0400]
+wait time is : 15
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_16-1-1.html
+[25/Sep/2014:05:44:20 -0400]
+wait time is : 29
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_17-1-1.html
+[25/Sep/2014:05:44:27 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_14-1-2.html
+[25/Sep/2014:05:45:32 -0400]
+wait time is : 65
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_25-1-4-4.html
+[25/Sep/2014:05:45:53 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_21-1-1-1.html
+[25/Sep/2014:06:07:27 -0400]
+wait time is : 1294
+WGET http://cs.hbg.psu.edu/ms/msentrance.html
+[25/Sep/2014:06:07:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[25/Sep/2014:06:14:41 -0400]
+wait time is : 433
+WGET http://cs.hbg.psu.edu/~jjb24/animations2.html
+[25/Sep/2014:06:14:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:06:48:42 -0400]
+wait time is : 2040
+WGET http://cs.hbg.psu.edu/~null/personal/farm.html
+[25/Sep/2014:06:48:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~null/personal/images/windmill.jpg
+[25/Sep/2014:06:48:53 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/~null/personal/horses.html
+[25/Sep/2014:06:48:54 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~null/personal/images/2infog.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/~null/personal/pasthorses.html
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/brandy.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/brandyme.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/shelbyme.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/missy2.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/missy3.jpg
+[25/Sep/2014:06:48:59 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/girls-me.jpg
+[25/Sep/2014:06:49:01 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/~null/personal/images/dusty.jpg
+[25/Sep/2014:06:49:01 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/dusty-head.jpg
+[25/Sep/2014:06:49:01 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~null/personal/images/river.jpg
+[25/Sep/2014:06:49:14 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/~null/personal/about.html
+[25/Sep/2014:06:49:15 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/~null/personal/images/us3.jpg
+[25/Sep/2014:07:49:44 -0400]
+wait time is : 3629
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:09:32:07 -0400]
+wait time is : 6143
+WGET http://cs.hbg.psu.edu/tmUnblock.cgi
+[25/Sep/2014:10:31:00 -0400]
+wait time is : 3533
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[25/Sep/2014:10:37:51 -0400]
+wait time is : 411
+WGET http://cs.hbg.psu.edu/comp519/hw3.html
+[25/Sep/2014:10:37:56 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/robotics/results.html
+[25/Sep/2014:10:56:48 -0400]
+wait time is : 1132
+WGET http://cs.hbg.psu.edu/~jjb24/ieeextreme60/honeycomb.png
+[25/Sep/2014:10:57:02 -0400]
+wait time is : 14
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.f96/numline.gif
+[25/Sep/2014:11:30:46 -0400]
+wait time is : 2024
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[25/Sep/2014:11:30:46 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[25/Sep/2014:11:30:46 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:12:02:37 -0400]
+wait time is : 1911
+WGET http://cs.hbg.psu.edu/cmpsc472/
+[25/Sep/2014:12:02:40 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/cmpsc472/ex1-topics.html
+[25/Sep/2014:12:18:28 -0400]
+wait time is : 948
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[25/Sep/2014:12:48:28 -0400]
+wait time is : 1800
+WGET http://cs.hbg.psu.edu/cmpsc472/472-list.html
+[25/Sep/2014:12:48:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cmpsc472/background01.jpg
+[25/Sep/2014:12:56:18 -0400]
+wait time is : 470
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[25/Sep/2014:13:13:56 -0400]
+wait time is : 1058
+WGET http://cs.hbg.psu.edu/cse103/Problem%20set1.doc
+[25/Sep/2014:13:53:14 -0400]
+wait time is : 2358
+WGET http://cs.hbg.psu.edu/robots.txt
+[25/Sep/2014:13:53:14 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/~ding/publications/PAKDD02_KNN.pdf
+[25/Sep/2014:14:41:38 -0400]
+wait time is : 2904
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-3-1-1-2.html
+[25/Sep/2014:14:41:41 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-10-2.html
+[25/Sep/2014:14:41:43 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-3-10-4.html
+[25/Sep/2014:14:41:49 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_22-1-1-1-1.html
+[25/Sep/2014:14:41:51 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-2-1-1-1.html
+[25/Sep/2014:14:41:56 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-2-1-1-3.html
+[25/Sep/2014:14:42:12 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss254-writeup.html
+[25/Sep/2014:14:42:19 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/~ehn104/feature_comparison.html
+[25/Sep/2014:14:42:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss266-writeup.html
+[25/Sep/2014:14:42:32 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss052-writeup.html
+[25/Sep/2014:14:42:35 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss263-writeup.html
+[25/Sep/2014:14:42:40 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss243-writeup.html
+[25/Sep/2014:14:42:43 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss264-writeup.html
+[25/Sep/2014:14:42:45 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss170-writeup.html
+[25/Sep/2014:14:42:50 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss268-writeup.html
+[25/Sep/2014:14:43:01 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_stream-external-format.html
+[25/Sep/2014:14:43:08 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_set-macro_ro-character.html
+[25/Sep/2014:14:43:11 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/fun_string-tr_g-right-trim.html
+[25/Sep/2014:14:43:16 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-2.html
+[25/Sep/2014:14:43:37 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_20-1-1.html
+[25/Sep/2014:14:43:38 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512/
+[25/Sep/2014:14:43:39 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_19-3-1.html
+[25/Sep/2014:14:43:55 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-5.html
+[25/Sep/2014:14:43:57 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-6.html
+[25/Sep/2014:14:44:02 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-2.html
+[25/Sep/2014:14:44:08 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-1.html
+[25/Sep/2014:14:44:13 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-5-1-2.html
+[25/Sep/2014:14:44:18 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-5-1-6.html
+[25/Sep/2014:14:44:20 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-1-3.html
+[25/Sep/2014:14:44:23 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_7-6-5-1.html
+[25/Sep/2014:14:44:33 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-1-1.html
+[25/Sep/2014:14:44:46 -0400]
+wait time is : 13
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_17-2-1-1.html
+[25/Sep/2014:14:45:04 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-3-1-1-1.html
+[25/Sep/2014:14:45:09 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_9-1-4-1-1.html
+[25/Sep/2014:14:45:12 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-4-6-1.html
+[25/Sep/2014:14:45:14 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-5-1-1-1.html
+[25/Sep/2014:14:45:17 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_2-1-4-5-1.html
+[25/Sep/2014:14:45:20 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_5-1-1-2-1.html
+[25/Sep/2014:14:45:25 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-2-1-2.html
+[25/Sep/2014:14:45:35 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss308-writeup.html
+[25/Sep/2014:14:45:43 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss097-writeup.html
+[25/Sep/2014:14:45:50 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss168-writeup.html
+[25/Sep/2014:14:45:58 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss269-writeup.html
+[25/Sep/2014:14:46:09 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss246-writeup.html
+[25/Sep/2014:14:46:14 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss064-writeup.html
+[25/Sep/2014:14:46:24 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss331-writeup.html
+[25/Sep/2014:14:46:44 -0400]
+wait time is : 20
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_13-1-4-4.html
+[25/Sep/2014:14:47:00 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_19-3-1-1.html
+[25/Sep/2014:14:47:05 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-3.html
+[25/Sep/2014:14:51:04 -0400]
+wait time is : 239
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-2-1-3-1.html
+[25/Sep/2014:14:52:36 -0400]
+wait time is : 92
+WGET http://cs.hbg.psu.edu/~ehn104/todo.html
+[25/Sep/2014:14:56:43 -0400]
+wait time is : 247
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop2.gif
+[25/Sep/2014:15:37:42 -0400]
+wait time is : 2459
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/clique/DIMACS_cliques/hamming6-2.clq.b
+[25/Sep/2014:16:00:52 -0400]
+wait time is : 1390
+WGET http://cs.hbg.psu.edu/cmpsc487/Robustness_Analysis_Articles.pdf
+[25/Sep/2014:16:20:46 -0400]
+wait time is : 1194
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:16:20:44 -0400]
+wait time is : -2
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:20:49 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:20:49 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:16:20:53 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:20:55 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:20:58 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:06 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:28 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:28 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:20 -0400]
+wait time is : -9
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:27 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:30 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:30 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:21:30 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:02 -0400]
+wait time is : 32
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:02 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:01 -0400]
+wait time is : -1
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:06 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:15 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:06 -0400]
+wait time is : -10
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:28 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:29 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:29 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:30 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:19 -0400]
+wait time is : -11
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:19 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:41 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:44 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:54 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:22:58 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:23:07 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:23:04 -0400]
+wait time is : -3
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:23:13 -0400]
+wait time is : 9
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:23:19 -0400]
+wait time is : 6
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:23:23 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[25/Sep/2014:16:46:56 -0400]
+wait time is : 1413
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[25/Sep/2014:16:47:48 -0400]
+wait time is : 52
+WGET http://cs.hbg.psu.edu/~abt111/
+[25/Sep/2014:17:25:53 -0400]
+wait time is : 2285
+WGET http://cs.hbg.psu.edu/cs/cs-prereq-before-2013.png
+[25/Sep/2014:17:26:14 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[25/Sep/2014:18:42:16 -0400]
+wait time is : 4562
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:18:43:01 -0400]
+wait time is : 45
+WGET http://cs.hbg.psu.edu/~null/personal/images/timmuskie.jpg
+[25/Sep/2014:19:19:14 -0400]
+wait time is : 2173
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:19:41:47 -0400]
+wait time is : 1353
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_6-1-1-7.html
+[25/Sep/2014:20:00:46 -0400]
+wait time is : 1139
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:20:09:28 -0400]
+wait time is : 522
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:20:09:31 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:20:09:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/index-style.css
+[25/Sep/2014:20:09:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[25/Sep/2014:20:09:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[25/Sep/2014:20:09:31 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[25/Sep/2014:20:09:32 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:20:09:40 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/cs/index.html
+[25/Sep/2014:20:09:40 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[25/Sep/2014:20:09:58 -0400]
+wait time is : 18
+WGET http://cs.hbg.psu.edu/index.html
+[25/Sep/2014:20:10:14 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/ms/msentrance.html
+[25/Sep/2014:20:10:14 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/ms-style.css
+[25/Sep/2014:20:10:55 -0400]
+wait time is : 41
+WGET http://cs.hbg.psu.edu/ms/msdegree.html
+[25/Sep/2014:20:14:37 -0400]
+wait time is : 222
+WGET http://cs.hbg.psu.edu/mspapers/sources/padma-gunturi.pdf
+[25/Sep/2014:21:17:44 -0400]
+wait time is : 3787
+WGET http://cs.hbg.psu.edu/robots.txt
+[25/Sep/2014:21:17:45 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/
+[25/Sep/2014:21:49:48 -0400]
+wait time is : 1923
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[25/Sep/2014:21:51:34 -0400]
+wait time is : 106
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_1-8-1.html
+[25/Sep/2014:21:51:37 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-3-4.html
+[25/Sep/2014:21:51:48 -0400]
+wait time is : 11
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-1-2-1-3.html
+[25/Sep/2014:21:51:52 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-4-4-1-2.html
+[25/Sep/2014:21:52:11 -0400]
+wait time is : 19
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss167-writeup.html
+[25/Sep/2014:21:52:19 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss195-writeup.html
+[25/Sep/2014:21:52:34 -0400]
+wait time is : 15
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss215-writeup.html
+[25/Sep/2014:21:52:50 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss275-writeup.html
+[25/Sep/2014:21:52:58 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss323-writeup.html
+[25/Sep/2014:21:53:14 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss274-writeup.html
+[25/Sep/2014:21:53:22 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss139-writeup.html
+[25/Sep/2014:21:53:30 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss166-writeup.html
+[25/Sep/2014:21:53:54 -0400]
+wait time is : 24
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss058-writeup.html
+[25/Sep/2014:21:54:10 -0400]
+wait time is : 16
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss251-writeup.html
+[25/Sep/2014:21:54:18 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss273-writeup.html
+[25/Sep/2014:21:54:26 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss159-writeup.html
+[25/Sep/2014:21:55:06 -0400]
+wait time is : 40
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss250-writeup.html
+[25/Sep/2014:21:55:14 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss365-writeup.html
+[25/Sep/2014:21:55:38 -0400]
+wait time is : 24
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss149-writeup.html
+[25/Sep/2014:21:56:10 -0400]
+wait time is : 32
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_character.html
+[25/Sep/2014:21:56:18 -0400]
+wait time is : 8
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/any_logical-pathname.html
+[25/Sep/2014:22:03:54 -0400]
+wait time is : 456
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-3-3-1.html
+[25/Sep/2014:22:03:55 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Body/sec_3-2-4-2-1.html
+[25/Sep/2014:22:33:05 -0400]
+wait time is : 1750
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:22:42:07 -0400]
+wait time is : 542
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign.html
+[25/Sep/2014:22:42:07 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img1.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img2.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img3.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img4.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img5.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/makemod.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img6.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img7.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img8.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img9.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img10.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img11.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img12.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img15.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img16.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img17.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img13.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img14.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img18.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img19.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img20.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign/img21.gif
+[25/Sep/2014:22:42:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[25/Sep/2014:22:59:28 -0400]
+wait time is : 1040
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.f96/unixint.html
+[25/Sep/2014:23:59:14 -0400]
+wait time is : 3586
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:13 -0400]
+wait time is : -1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:15 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:16 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:17 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:19 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:20 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:22 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:23 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:24 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:26 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:27 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:31 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:33 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:35 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:37 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:39 -0400]
+wait time is : 2
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:40 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:42 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[25/Sep/2014:23:59:43 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:00:37:42 -0400]
+wait time is : 2279
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/clique/DIMACS_cliques/sanr400_0.5.clq.b
+[26/Sep/2014:01:28:56 -0400]
+wait time is : 3074
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[26/Sep/2014:01:28:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[26/Sep/2014:01:28:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:02:00:43 -0400]
+wait time is : 1906
+WGET http://cs.hbg.psu.edu/robots.txt
+[26/Sep/2014:02:34:48 -0400]
+wait time is : 2045
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:03:13:40 -0400]
+wait time is : 2332
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[26/Sep/2014:03:13:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:03:13:41 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:04:46:56 -0400]
+wait time is : 5595
+WGET http://cs.hbg.psu.edu/cs/csprereq-before-2013.html
+[26/Sep/2014:05:00:46 -0400]
+wait time is : 830
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:05:13:45 -0400]
+wait time is : 779
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides02-before.pdf
+[26/Sep/2014:05:13:50 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:06:56:12 -0400]
+wait time is : 6142
+WGET http://cs.hbg.psu.edu/blog/wp-admin/
+[26/Sep/2014:06:59:55 -0400]
+wait time is : 223
+WGET http://cs.hbg.psu.edu/iug-proposal/csstudents.html
+[26/Sep/2014:07:59:11 -0400]
+wait time is : 3556
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/clique/DIMACS_cliques/brock200_4.clq.b
+[26/Sep/2014:08:12:48 -0400]
+wait time is : 817
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:23:56 -0400]
+wait time is : 668
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[26/Sep/2014:08:23:57 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:23:57 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:24:33 -0400]
+wait time is : 36
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:08:24:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:24:33 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:25:00 -0400]
+wait time is : 27
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[26/Sep/2014:08:25:00 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:25:00 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:25:38 -0400]
+wait time is : 38
+WGET http://cs.hbg.psu.edu/cs/csentrance-checklist-psu.html
+[26/Sep/2014:08:25:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:25:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:32:42 -0400]
+wait time is : 424
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:32:42 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:32:56 -0400]
+wait time is : 14
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:08:32:56 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:09:19:45 -0400]
+wait time is : 2809
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:09:19:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/index-style.css
+[26/Sep/2014:09:19:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[26/Sep/2014:09:19:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/Shield.gif
+[26/Sep/2014:09:19:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/graphics/logo16.png
+[26/Sep/2014:09:19:49 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[26/Sep/2014:09:19:52 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:09:19:52 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:09:22:54 -0400]
+wait time is : 182
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:09:22:54 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:09:31:53 -0400]
+wait time is : 539
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[26/Sep/2014:09:31:53 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-style.css
+[26/Sep/2014:09:41:35 -0400]
+wait time is : 582
+WGET http://cs.hbg.psu.edu/comp517/syllabus.pdf
+[26/Sep/2014:09:44:44 -0400]
+wait time is : 189
+WGET http://cs.hbg.psu.edu/math/math-general-prereq.html
+[26/Sep/2014:09:44:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-style.css
+[26/Sep/2014:09:44:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/math/math-general-prereq.png
+[26/Sep/2014:09:44:44 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:10:11:21 -0400]
+wait time is : 1597
+WGET http://cs.hbg.psu.edu/mspapers/sources/joe-rizzo.pdf
+[26/Sep/2014:10:33:18 -0400]
+wait time is : 1317
+WGET http://cs.hbg.psu.edu/cs/cs-prereq-before-2010.png
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 3499
+WGET http://cs.hbg.psu.edu/robotics/
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/boxbg.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/menubg.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/hdrpic.png
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/topbg.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/bg2.jpg
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/menuactive.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/bg1.jpg
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/border1.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/db1.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/border2.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/db2.gif
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/robotics/images/pic2.jpg
+[26/Sep/2014:11:31:37 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:12:24:17 -0400]
+wait time is : 3160
+WGET http://cs.hbg.psu.edu/~null/personal/images/moppet-groundhog.jpg
+[26/Sep/2014:13:18:04 -0400]
+wait time is : 3227
+WGET http://cs.hbg.psu.edu/~null/personal/images/mop2.jpg
+[26/Sep/2014:13:32:29 -0400]
+wait time is : 865
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:13:34:09 -0400]
+wait time is : 100
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[26/Sep/2014:13:34:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[26/Sep/2014:13:34:10 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[26/Sep/2014:13:40:40 -0400]
+wait time is : 390
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[26/Sep/2014:13:40:40 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-prereq.png
+[26/Sep/2014:14:05:50 -0400]
+wait time is : 1510
+WGET http://cs.hbg.psu.edu/misc/index.html
+[26/Sep/2014:14:06:14 -0400]
+wait time is : 24
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[26/Sep/2014:14:30:23 -0400]
+wait time is : 1449
+WGET http://cs.hbg.psu.edu/blog/wp-admin/
+[26/Sep/2014:15:08:45 -0400]
+wait time is : 2302
+WGET http://cs.hbg.psu.edu/mspapers/advisors.html
+[26/Sep/2014:15:21:41 -0400]
+wait time is : 776
+WGET http://cs.hbg.psu.edu/comp413/SDLC_2_EUP.pdf
+[26/Sep/2014:16:11:27 -0400]
+wait time is : 2986
+WGET http://cs.hbg.psu.edu/ms/ms/
+[26/Sep/2014:16:11:28 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:16:53:47 -0400]
+wait time is : 2539
+WGET http://cs.hbg.psu.edu/~null/personal/images/cicadas.jpg
+[26/Sep/2014:17:47:27 -0400]
+wait time is : 3220
+WGET http://cs.hbg.psu.edu/zdzd/zdz/zd.php
+[26/Sep/2014:17:47:31 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/phpMyAdmin/scripts/setup.php
+[26/Sep/2014:17:47:35 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/pma/scripts/setup.php
+[26/Sep/2014:17:52:52 -0400]
+wait time is : 317
+WGET http://cs.hbg.psu.edu/comp519/
+[26/Sep/2014:17:52:59 -0400]
+wait time is : 7
+WGET http://cs.hbg.psu.edu/comp519/hw3.html
+[26/Sep/2014:18:52:55 -0400]
+wait time is : 3596
+WGET http://cs.hbg.psu.edu/wp-admin/
+[26/Sep/2014:19:36:01 -0400]
+wait time is : 2586
+WGET http://cs.hbg.psu.edu/~null/personal/images/poultry2.jpg
+[26/Sep/2014:21:11:31 -0400]
+wait time is : 5730
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[26/Sep/2014:21:26:25 -0400]
+wait time is : 894
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[26/Sep/2014:21:30:27 -0400]
+wait time is : 242
+WGET http://cs.hbg.psu.edu/robots.txt
+[26/Sep/2014:21:30:27 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/
+[26/Sep/2014:22:27:51 -0400]
+wait time is : 3444
+WGET http://cs.hbg.psu.edu/~fjs2/
+[26/Sep/2014:23:17:42 -0400]
+wait time is : 2991
+WGET http://cs.hbg.psu.edu/courses/comp430.taw.f96/final/final.css
+[27/Sep/2014:00:21:10 -0400]
+wait time is : 3808
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[27/Sep/2014:00:21:10 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[27/Sep/2014:00:21:10 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:00:21:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:01:42:24 -0400]
+wait time is : 4873
+WGET http://cs.hbg.psu.edu/iug-proposal/title.html
+[27/Sep/2014:02:19:34 -0400]
+wait time is : 2230
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:02:26:26 -0400]
+wait time is : 412
+WGET http://cs.hbg.psu.edu/mspapers/sources/
+[27/Sep/2014:02:42:21 -0400]
+wait time is : 955
+WGET http://cs.hbg.psu.edu/comp512.papers/singhaldeadsurvey-1.pdf
+[27/Sep/2014:03:21:55 -0400]
+wait time is : 2374
+WGET http://cs.hbg.psu.edu/mspapers/sources/hung-yu-lin.pdf
+[27/Sep/2014:03:54:03 -0400]
+wait time is : 1928
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/exam1/exam1.html
+[27/Sep/2014:04:04:57 -0400]
+wait time is : 654
+WGET http://cs.hbg.psu.edu/comp512.papers/knapp.pdf
+[27/Sep/2014:05:15:31 -0400]
+wait time is : 4234
+WGET http://cs.hbg.psu.edu/
+[27/Sep/2014:07:07:25 -0400]
+wait time is : 6714
+WGET http://cs.hbg.psu.edu/
+[27/Sep/2014:08:13:39 -0400]
+wait time is : 3974
+WGET http://cs.hbg.psu.edu/txn131/spanning_tree.html
+[27/Sep/2014:08:13:42 -0400]
+wait time is : 3
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:08:26:32 -0400]
+wait time is : 770
+WGET http://cs.hbg.psu.edu/~ding/publications/SAC02_db15.pdf
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 1283
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/er.html
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop1.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop2.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img1.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img2.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img3.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img5.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img4.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img6.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img7.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/cart1.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/oneone.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/onem.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mone.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mm.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ernote.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[27/Sep/2014:08:47:55 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:09:31:38 -0400]
+wait time is : 2623
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[27/Sep/2014:09:31:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[27/Sep/2014:09:31:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-prereq.png
+[27/Sep/2014:09:31:38 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:09:31:59 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[27/Sep/2014:09:32:23 -0400]
+wait time is : 24
+WGET http://cs.hbg.psu.edu/cs/cs-prereq.pdf
+[27/Sep/2014:09:32:44 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[27/Sep/2014:09:37:39 -0400]
+wait time is : 295
+WGET http://cs.hbg.psu.edu/math/math-faq.html
+[27/Sep/2014:10:20:42 -0400]
+wait time is : 2583
+WGET http://cs.hbg.psu.edu/~null/personal/images/elsie-kitten.jpg
+[27/Sep/2014:11:01:40 -0400]
+wait time is : 2458
+WGET http://cs.hbg.psu.edu/cmpsc487/IEEEStds_List.htm
+[27/Sep/2014:11:01:41 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:12:26:33 -0400]
+wait time is : 5092
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign3.html
+[27/Sep/2014:12:54:59 -0400]
+wait time is : 1706
+WGET http://cs.hbg.psu.edu/
+[27/Sep/2014:13:07:09 -0400]
+wait time is : 730
+WGET http://cs.hbg.psu.edu/resources/journal-list.html
+[27/Sep/2014:13:07:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/resources/resources-style.css
+[27/Sep/2014:13:07:14 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:13:07:35 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[27/Sep/2014:13:08:09 -0400]
+wait time is : 34
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:13:08:31 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu"-
+[27/Sep/2014:14:27:08 -0400]
+wait time is : 4717
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/er.html
+[27/Sep/2014:14:27:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop1.gif
+[27/Sep/2014:14:27:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop2.gif
+[27/Sep/2014:14:27:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img1.gif
+[27/Sep/2014:14:27:08 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img2.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img3.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img4.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img5.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img6.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ergifs/img7.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/cart1.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/oneone.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/onem.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mone.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/mm.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/ernote.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[27/Sep/2014:14:27:09 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:14:27:30 -0400]
+wait time is : 21
+WGET http://cs.hbg.psu.edu"-
+[27/Sep/2014:14:27:34 -0400]
+wait time is : 4
+WGET http://cs.hbg.psu.edu/robots.txt
+[27/Sep/2014:15:00:07 -0400]
+wait time is : 1953
+WGET http://cs.hbg.psu.edu/cmpsc487/OOSE_ch09ppt.pdf
+[27/Sep/2014:15:22:45 -0400]
+wait time is : 1358
+WGET http://cs.hbg.psu.edu/mspapers/
+[27/Sep/2014:16:04:45 -0400]
+wait time is : 2520
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[27/Sep/2014:16:04:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[27/Sep/2014:16:04:45 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:16:50:04 -0400]
+wait time is : 2719
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign2.html
+[27/Sep/2014:17:56:33 -0400]
+wait time is : 3989
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/rdesign3.html
+[27/Sep/2014:18:02:27 -0400]
+wait time is : 354
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/fixed_set_color/qwhopt.order60.holes1440.1.col
+[27/Sep/2014:18:32:00 -0400]
+wait time is : 1773
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/coloring/fixed_set_color/qwhopt.order60.holes1440.1.col
+[27/Sep/2014:18:47:08 -0400]
+wait time is : 908
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[27/Sep/2014:19:28:03 -0400]
+wait time is : 2455
+WGET http://cs.hbg.psu.edu/cmpsc472/
+[27/Sep/2014:19:28:58 -0400]
+wait time is : 55
+WGET http://cs.hbg.psu.edu/robots.txt
+[27/Sep/2014:19:29:03 -0400]
+wait time is : 5
+WGET http://cs.hbg.psu.edu/cs/csentrance.html
+[27/Sep/2014:19:41:59 -0400]
+wait time is : 776
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[27/Sep/2014:19:42:09 -0400]
+wait time is : 10
+WGET http://cs.hbg.psu.edu/cs/csprereq.html
+[27/Sep/2014:19:42:10 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[27/Sep/2014:19:42:10 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-prereq.png
+[27/Sep/2014:19:42:11 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:19:42:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[27/Sep/2014:19:56:50 -0400]
+wait time is : 879
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss363-writeup.html
+[27/Sep/2014:20:34:21 -0400]
+wait time is : 2251
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
+[27/Sep/2014:20:46:49 -0400]
+wait time is : 748
+WGET http://cs.hbg.psu.edu/
+[27/Sep/2014:21:14:56 -0400]
+wait time is : 1687
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/exam1/gen.gif
+[27/Sep/2014:21:41:33 -0400]
+wait time is : 1597
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[27/Sep/2014:21:42:05 -0400]
+wait time is : 32
+WGET http://cs.hbg.psu.edu/math/math-courses.html
+[27/Sep/2014:21:53:44 -0400]
+wait time is : 699
+WGET http://cs.hbg.psu.edu/mspapers/sources/joe-rizzo.pdf
+[27/Sep/2014:22:12:41 -0400]
+wait time is : 1137
+WGET http://cs.hbg.psu.edu/~null/personal/images/p7300200.jpg
+[27/Sep/2014:22:12:53 -0400]
+wait time is : 12
+WGET http://cs.hbg.psu.edu/~null/personal/images/poultry3.jpg
+[27/Sep/2014:22:18:09 -0400]
+wait time is : 316
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyer.gif
+[27/Sep/2014:22:43:09 -0400]
+wait time is : 1500
+WGET http://cs.hbg.psu.edu/cmpsc487/
+[27/Sep/2014:22:44:23 -0400]
+wait time is : 74
+WGET http://cs.hbg.psu.edu/comp413/Interrogue_Requirements_1-2.pdf
+[27/Sep/2014:23:04:16 -0400]
+wait time is : 1193
+WGET http://cs.hbg.psu.edu/
+[27/Sep/2014:23:07:55 -0400]
+wait time is : 219
+WGET http://cs.hbg.psu.edu/~null/personal/images/p7250117.jpg
+[27/Sep/2014:23:12:21 -0400]
+wait time is : 266
+WGET http://cs.hbg.psu.edu/switch-menu.js
+[27/Sep/2014:23:58:11 -0400]
+wait time is : 2750
+WGET http://cs.hbg.psu.edu/cs/csfaculty.html
+[27/Sep/2014:23:58:11 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[27/Sep/2014:23:58:33 -0400]
+wait time is : 22
+WGET http://cs.hbg.psu.edu"-
+[28/Sep/2014:00:05:22 -0400]
+wait time is : 409
+WGET http://cs.hbg.psu.edu"-
+[28/Sep/2014:00:07:21 -0400]
+wait time is : 119
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss221.html
+[28/Sep/2014:00:40:50 -0400]
+wait time is : 2009
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[28/Sep/2014:00:40:50 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[28/Sep/2014:00:40:51 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/comp416/lectures/slides03-before.pdf
+[28/Sep/2014:00:40:51 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/favicon.ico
+[28/Sep/2014:01:26:56 -0400]
+wait time is : 2765
+WGET http://cs.hbg.psu.edu/~null/personal/pastpets.html
+[28/Sep/2014:01:45:21 -0400]
+wait time is : 1105
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[28/Sep/2014:02:02:26 -0400]
+wait time is : 1025
+WGET http://cs.hbg.psu.edu/contest/sample1.java
+[28/Sep/2014:02:28:14 -0400]
+wait time is : 1548
+WGET http://cs.hbg.psu.edu/~null/personal/horse-thumb.html
+[28/Sep/2014:02:34:24 -0400]
+wait time is : 370
+WGET http://cs.hbg.psu.edu/robots.txt
+[28/Sep/2014:02:34:24 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/cs/csstudents.html
+[28/Sep/2014:03:00:33 -0400]
+wait time is : 1569
+WGET http://cs.hbg.psu.edu/cs/csdegree.html
+[28/Sep/2014:03:00:34 -0400]
+wait time is : 1
+WGET http://cs.hbg.psu.edu/cs/cs-style.css
+[28/Sep/2014:03:36:32 -0400]
+wait time is : 2158
+WGET http://cs.hbg.psu.edu/courses/comp419.taw.s97/flyshop1.gif
+[28/Sep/2014:03:41:30 -0400]
+wait time is : 298
+WGET http://cs.hbg.psu.edu/comp512/pipe-hw3.c
+[28/Sep/2014:04:17:58 -0400]
+wait time is : 2188
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss036.html
+[28/Sep/2014:04:54:41 -0400]
+wait time is : 2203
+WGET http://cs.hbg.psu.edu/LOCAL/HyperSpec/Issues/iss253-writeup.html
+[28/Sep/2014:06:01:31 -0400]
+wait time is : 4010
+WGET http://cs.hbg.psu.edu/mspapers/types.html
+[28/Sep/2014:06:05:28 -0400]
+wait time is : 237
+WGET http://cs.hbg.psu.edu/comp512.papers/Raymond-89.pdf
+[28/Sep/2014:06:06:30 -0400]
+wait time is : 62
+WGET http://cs.hbg.psu.edu/cs/csminor.html
+[28/Sep/2014:06:06:44 -0400]
+wait time is : 14
+WGET http://cs.hbg.psu.edu/mspapers/sources/blank.pdf
+[28/Sep/2014:06:31:14 -0400]
+wait time is : 1470
+WGET http://cs.hbg.psu.edu/robots.txt
+[28/Sep/2014:06:34:47 -0400]
+wait time is : 213
+WGET http://cs.hbg.psu.edu/benchmarks/file_instances/
+[28/Sep/2014:06:34:47 -0400]
+wait time is : 0
+WGET http://cs.hbg.psu.edu/ms/msfaculty.html
